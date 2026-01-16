@@ -101,7 +101,9 @@ class GmailNewsletterScraper(BaseScraper):
             config = source_config.get('config', {})
             sender = config.get('gmail_sender')
 
-            if not sender:
+            # Sender is optional if subject pattern is provided
+            if not sender and not config.get('gmail_subject_pattern'):
+                logger.warning(f"Skipping source {source_config.get('name')} - missing both sender and subject pattern")
                 continue
 
             try:
@@ -111,16 +113,16 @@ class GmailNewsletterScraper(BaseScraper):
                     source_name=source_config.get('name', 'Newsletter'),
                 )
                 all_events.extend(events)
-                logger.info(f"Scraped {len(events)} events from {sender}")
+                logger.info(f"Scraped {len(events)} events matching config for {source_config.get('name')}")
             except Exception as e:
-                logger.error(f"Failed to scrape {sender}: {e}")
+                logger.error(f"Failed to scrape source {source_config.get('name')}: {e}")
                 continue
 
         return all_events
 
     def _scrape_newsletter(
         self,
-        sender: str,
+        sender: Optional[str] = None,
         subject_pattern: Optional[str] = None,
         source_name: str = 'Newsletter',
         days_back: int = 30
@@ -128,10 +130,15 @@ class GmailNewsletterScraper(BaseScraper):
         """Scrape events from a specific newsletter."""
         # Build query
         after_date = (datetime.now() - timedelta(days=days_back)).strftime('%Y/%m/%d')
-        query = f'from:{sender} after:{after_date}'
+        query_parts = [f'after:{after_date}']
+        
+        if sender:
+            query_parts.append(f'from:{sender}')
         
         if subject_pattern:
-            query += f' subject:({subject_pattern})'
+            query_parts.append(f'subject:({subject_pattern})')
+            
+        query = ' '.join(query_parts)
 
         try:
             # Search for messages
@@ -167,8 +174,13 @@ class GmailNewsletterScraper(BaseScraper):
                 format='full'
             ).execute()
 
-            # Get email content
+            # Get headers
             payload = message.get('payload', {})
+            headers = payload.get('headers', [])
+            from_header = next((h['value'] for h in headers if h['name'] == 'From'), source_info.get('email', 'Unknown'))
+            subject_header = next((h['value'] for h in headers if h['name'] == 'Subject'), 'No Subject')
+            
+            # Get email content
             body = self._get_body(payload)
 
             if not body:
@@ -181,8 +193,9 @@ class GmailNewsletterScraper(BaseScraper):
             for event in events:
                 event['source'] = {
                     'type': 'newsletter',
-                    'url': source_info.get('email', ''),
+                    'url': from_header,  # Use sender as URL/identifier
                     'name': source_info.get('name', 'Newsletter'),
+                    'email_subject': subject_header,
                     'scraped_at': datetime.utcnow().isoformat(),
                 }
 

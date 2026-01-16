@@ -13,8 +13,9 @@ class EventValidator:
 
     REQUIRED_FIELDS = ['title', 'source']
     
-    # Titles that indicate non-event items (navigation, buttons, etc.)
+    # Titles that indicate non-event items (navigation, buttons, garbage, etc.)
     INVALID_TITLE_PATTERNS = [
+        # Navigation / buttons
         r'^read more$',
         r'^learn more$',
         r'^click here$',
@@ -36,6 +37,36 @@ class EventValidator:
         r'^follow us',
         r'^\d+$',  # Just numbers
         r'^[a-z]$',  # Single letter
+        # Archive / past / navigation links
+        r'^see past events',
+        r'^see presentation',
+        r'^past events',
+        r'^view archive',
+        r'^archive',
+        r'^events$',  # Just "Events"
+        r'^all events',
+        r'^upcoming events',
+        r'^event calendar',
+        r'^add your event',
+        # Marketing / promotional text  
+        r'^virtual\s*\|',  # "Virtual | Free | ..."
+        r'^free\s*\|',
+        r'^promotion of',
+        r'^please note',
+        r'^disclaimer',
+        # Multi-category text (navigation tabs)
+        r'bpc event.*mi event',
+        r'all events.*bpc event',
+        # Very short or generic
+        r'^.{1,4}$',  # Too short (4 chars or less)
+        # Contains only format/fee info
+        r'^(online|in-person|hybrid|free|virtual)(\s*\|\s*(online|in-person|hybrid|free|virtual|dle|c&c))*$',
+    ]
+    
+    # Keywords that if present at START suggest garbage
+    GARBAGE_START_KEYWORDS = [
+        'see ', 'view ', 'browse ', 'all ', 'our ', 'your ',
+        'please ', 'note:', 'disclaimer', 'promotion '
     ]
     
     COMPLETENESS_WEIGHTS = {
@@ -76,9 +107,11 @@ class EventValidator:
             elif self._is_invalid_title(title):
                 errors.append("Title looks like navigation/button text")
         
-        # Must have a valid date (future or recent)
-        if not self._is_valid_date(event.get('start_date')):
-            errors.append("Missing or past start_date")
+        # Date validation: if provided, should be reasonable
+        # Allow events without dates, but reject clearly past events
+        start_date = event.get('start_date')
+        if start_date and not self._is_valid_date(start_date):
+            errors.append("Invalid or too old start_date")
 
         # Validate dates format
         if event.get('start_date'):
@@ -112,17 +145,34 @@ class EventValidator:
         return len(errors) == 0, errors
 
     def _is_invalid_title(self, title: str) -> bool:
-        """Check if title matches invalid patterns."""
+        """Check if title matches invalid patterns or is likely garbage."""
         title_lower = title.lower().strip()
+        
+        # Check regex patterns
         for pattern in self.INVALID_TITLE_PATTERNS:
             if re.match(pattern, title_lower, re.IGNORECASE):
                 return True
+        
+        # Check garbage start keywords
+        for keyword in self.GARBAGE_START_KEYWORDS:
+            if title_lower.startswith(keyword):
+                return True
+        
+        # Title is too long (likely scraped an entire paragraph)
+        if len(title) > 200:
+            return True
+            
         return False
 
     def _is_valid_date(self, date_value: Any) -> bool:
-        """Check if date is valid and not too far in the past."""
+        """Check if date is valid and not too far in the past.
+        
+        More lenient validation:
+        - Events up to 30 days in the past are OK (for recently passed)
+        - Events up to 3 years in the future are OK
+        """
         if not date_value:
-            return False
+            return True  # No date is OK - we don't want to filter out events without dates
         
         try:
             if isinstance(date_value, str):
@@ -130,17 +180,17 @@ class EventValidator:
             elif isinstance(date_value, datetime):
                 dt = date_value
             else:
-                return False
+                return True  # Unknown format, allow it
             
-            # Allow events up to 7 days in the past (for recently passed events)
-            # and up to 2 years in the future
+            # Allow events up to 30 days in the past (for recently passed events)
+            # and up to 3 years in the future
             now = datetime.now(dt.tzinfo) if dt.tzinfo else datetime.now()
-            min_date = now - timedelta(days=7)
-            max_date = now + timedelta(days=730)
+            min_date = now - timedelta(days=30)
+            max_date = now + timedelta(days=1095)  # ~3 years
             
             return min_date <= dt <= max_date
         except (ValueError, TypeError):
-            return False
+            return True  # If we can't parse, don't filter it out
 
     def _has_valid_url(self, event: Dict[str, Any]) -> bool:
         """Check if event has a valid URL."""

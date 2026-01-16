@@ -5,6 +5,10 @@ on:
     # Run daily at 6 AM UTC
     - cron: '0 6 * * *'
   workflow_dispatch: # Allow manual triggers
+  push:
+    branches:
+      - main
+
 
 # Grant write permissions to push changes
 permissions:
@@ -65,6 +69,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Pull latest data
+        run: |
+          git pull origin main
 
       - name: Setup Node.js
         uses: actions/setup-node@v4

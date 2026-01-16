@@ -84,7 +84,7 @@ export default function FilterBar({
                         placeholder="Search events, organizations..."
                         value={filters.search}
                         onChange={handleSearchChange}
-                        className="w-full pl-10 pr-4 py-2.5 rounded-xl border border-purple-200 bg-white/50 focus:bg-white transition-colors"
+                        className="w-full pl-10 pr-4 py-2.5 rounded-xl border border-slate-200 bg-white/50 focus:bg-white transition-colors"
                     />
                 </div>
 
@@ -100,8 +100,8 @@ export default function FilterBar({
                 <button
                     onClick={() => setIsExpanded(!isExpanded)}
                     className={`flex items-center gap-2 px-4 py-2.5 rounded-xl border transition-all ${isExpanded || hasActiveFilters
-                            ? 'bg-primary-100 border-primary-300 text-primary-700'
-                            : 'border-purple-200 text-gray-600 hover:border-primary-300'
+                        ? 'bg-primary-100 border-primary-300 text-primary-700'
+                        : 'border-slate-200 text-gray-600 hover:border-primary-300'
                         }`}
                 >
                     <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -117,7 +117,7 @@ export default function FilterBar({
                 <select
                     value={sortBy}
                     onChange={(e) => setSortBy(e.target.value)}
-                    className="px-4 py-2.5 rounded-xl border border-purple-200 bg-white/50"
+                    className="px-4 py-2.5 rounded-xl border border-slate-200 bg-white/50"
                 >
                     <option value="date">Sort by Date</option>
                     <option value="title">Sort by Title</option>
@@ -127,7 +127,7 @@ export default function FilterBar({
 
             {/* Expanded filters */}
             {isExpanded && (
-                <div className="mt-4 pt-4 border-t border-purple-100 space-y-4">
+                <div className="mt-4 pt-4 border-t border-slate-100 space-y-4">
                     {/* Format filters */}
                     <div>
                         <label className="block text-sm font-medium text-gray-700 mb-2">Format</label>
@@ -137,8 +137,8 @@ export default function FilterBar({
                                     key={option.value}
                                     onClick={() => toggleFormat(option.value)}
                                     className={`badge cursor-pointer transition-all ${filters.format.includes(option.value)
-                                            ? `badge-${option.value} ring-2 ring-offset-1 ring-${option.color}-400`
-                                            : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                                        ? `badge-${option.value} ring-2 ring-offset-1 ring-${option.color}-400`
+                                        : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                                         }`}
                                 >
                                     {option.label}
@@ -156,8 +156,8 @@ export default function FilterBar({
                                     key={option.value}
                                     onClick={() => toggleEventType(option.value)}
                                     className={`badge cursor-pointer transition-all ${filters.eventType.includes(option.value)
-                                            ? 'bg-primary-100 text-primary-700 ring-2 ring-offset-1 ring-primary-400'
-                                            : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                                        ? 'bg-primary-100 text-primary-700 ring-2 ring-offset-1 ring-primary-400'
+                                        : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                                         }`}
                                 >
                                     {option.label}
@@ -174,7 +174,7 @@ export default function FilterBar({
                                 type="date"
                                 value={filters.startDate}
                                 onChange={(e) => setFilters(prev => ({ ...prev, startDate: e.target.value }))}
-                                className="w-full px-3 py-2 rounded-lg border border-purple-200 bg-white/50"
+                                className="w-full px-3 py-2 rounded-lg border border-slate-200 bg-white/50"
                             />
                         </div>
                         <div className="flex-1 min-w-[150px]">
@@ -183,7 +183,7 @@ export default function FilterBar({
                                 type="date"
                                 value={filters.endDate}
                                 onChange={(e) => setFilters(prev => ({ ...prev, endDate: e.target.value }))}
-                                className="w-full px-3 py-2 rounded-lg border border-purple-200 bg-white/50"
+                                className="w-full px-3 py-2 rounded-lg border border-slate-200 bg-white/50"
                             />
                         </div>
                         <div className="flex-1 min-w-[200px]">
@@ -191,7 +191,7 @@ export default function FilterBar({
                             <select
                                 value={filters.organization}
                                 onChange={(e) => setFilters(prev => ({ ...prev, organization: e.target.value }))}
-                                className="w-full px-3 py-2 rounded-lg border border-purple-200 bg-white/50"
+                                className="w-full px-3 py-2 rounded-lg border border-slate-200 bg-white/50"
                             >
                                 <option value="">All Organizations</option>
                                 {organizations.map(org => (

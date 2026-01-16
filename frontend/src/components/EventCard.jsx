@@ -114,7 +114,8 @@ export default function EventCard({ event }) {
                         href={event.registration.url}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="block w-full text-center px-4 py-2.5 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors"
+                        className="block w-full text-center px-4 py-2.5 text-white font-medium rounded-lg transition-all hover:opacity-90"
+                        style={{ background: 'linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%)' }}
                     >
                         View Details
                     </a>
