@@ -1,0 +1,272 @@
+[
+  {
+    "id": "apsa-events",
+    "name": "American Psychoanalytic Association",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://apsa.org/meetings-events/",
+      "scraper_type": "custom",
+      "custom_parser": "APsAScraper"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:04.754724",
+    "active": true,
+    "notes": "Primary US psychoanalytic organization"
+  },
+  {
+    "id": "bpc-events",
+    "name": "British Psychoanalytic Council",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://www.bpc.org.uk/events/",
+      "scraper_type": "custom",
+      "custom_parser": "BPCScraper"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:08.167997",
+    "active": true,
+    "notes": "UK psychoanalytic regulatory body"
+  },
+  {
+    "id": "chicago-psychoanalytic",
+    "name": "Chicago Psychoanalytic Society",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://www.chicagopsychoanalyticsociety.org/",
+      "scraper_type": "custom",
+      "custom_parser": "ChicagoPsychoanalyticScraper"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:11.701599",
+    "active": true,
+    "notes": "Chicago area psychoanalytic society"
+  },
+  {
+    "id": "psychoanalytic-inquiry",
+    "name": "Psychoanalytic Inquiry",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://www.psychoanalyticinquiry.com/",
+      "scraper_type": "custom",
+      "custom_parser": "PsychoanalyticInquiryScraper"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:22.629264",
+    "active": true,
+    "notes": "Psychoanalytic journal and events"
+  },
+  {
+    "id": "ipa-world",
+    "name": "International Psychoanalytical Association (IPA)",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://www.ipa.world/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:26.449003",
+    "active": true,
+    "notes": "Main international psychoanalytic organization"
+  },
+  {
+    "id": "melanie-klein-trust",
+    "name": "Melanie Klein Trust",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://melanie-klein-trust.org.uk/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:30.914825",
+    "active": true,
+    "notes": "Melanie Klein Trust - UK Kleinian psychoanalysis"
+  },
+  {
+    "id": "winnicott-trust",
+    "name": "Winnicott Trust",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://winnicott-trust.org.uk/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:34.485631",
+    "active": true,
+    "notes": "Donald Winnicott legacy organization"
+  },
+  {
+    "id": "ferenczi-society",
+    "name": "Sándor Ferenczi Society",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://www.sandorferenczi.org/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:41.807033",
+    "active": true,
+    "notes": "Sándor Ferenczi psychoanalytic legacy"
+  },
+  {
+    "id": "independent-psychoanalysis-trust",
+    "name": "Independent Psychoanalysis Trust",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://independentpsychoanalysistrust.uk/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:44.972842",
+    "active": true,
+    "notes": "UK Independent psychoanalytic tradition"
+  },
+  {
+    "id": "iapsp",
+    "name": "International Association for Psychoanalytic Self Psychology",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://iapsp.org/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:48.731652",
+    "active": true,
+    "notes": "Self psychology organization (Kohut tradition)"
+  },
+  {
+    "id": "contemporary-freudian-society",
+    "name": "Contemporary Freudian Society",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://contemporaryfreudiansociety.org/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:52.697691",
+    "active": true,
+    "notes": "NYC contemporary Freudian psychoanalysis"
+  },
+  {
+    "id": "mpi-mps",
+    "name": "Massachusetts Institute for Psychoanalysis",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://www.mpi-mps.org/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:14:56.356047",
+    "active": true,
+    "notes": "Massachusetts psychoanalytic institute"
+  },
+  {
+    "id": "bpa",
+    "name": "British Psychoanalytic Association",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://www.psychoanalysis-bpa.org/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:15:05.308557",
+    "active": true,
+    "notes": "British Psychoanalytic Association"
+  },
+  {
+    "id": "bpsi",
+    "name": "Boston Psychoanalytic Society and Institute",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://bpsi.org/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:15:09.328485",
+    "active": true,
+    "notes": "Boston area psychoanalysis"
+  },
+  {
+    "id": "npap",
+    "name": "National Psychological Association for Psychoanalysis",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://npap.org/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:15:12.714196",
+    "active": true,
+    "notes": "NYC lay analyst tradition"
+  },
+  {
+    "id": "wa-white",
+    "name": "William Alanson White Institute",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://www.wawhite.org/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:15:19.098153",
+    "active": true,
+    "notes": "Interpersonal/relational psychoanalysis"
+  },
+  {
+    "id": "freud-museum-vienna",
+    "name": "Sigmund Freud Museum Vienna",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://www.freud-museum.at/en",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:15:22.597252",
+    "active": true,
+    "notes": "Freud's original consulting room in Vienna"
+  },
+  {
+    "id": "freud-museum-london",
+    "name": "Freud Museum London",
+    "type": "website",
+    "enabled": true,
+    "config": {
+      "url": "https://www.freud.org.uk/",
+      "scraper_type": "generic"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": "2026-01-16T23:15:25.838767",
+    "active": true,
+    "notes": "Freud's London home and famous couch"
+  },
+  {
+    "id": "newsletter-ipa",
+    "name": "IPA Newsletter",
+    "type": "newsletter",
+    "enabled": false,
+    "config": {
+      "gmail_sender": "newsletter@ipa.world",
+      "gmail_subject_pattern": "IPA.*Events|Newsletter"
+    },
+    "scrape_frequency": "0 6 * * *",
+    "last_scraped": null,
+    "active": false,
+    "notes": "International Psychoanalytical Association - requires Gmail API setup"
+  }
+]
