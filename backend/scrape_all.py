@@ -15,7 +15,14 @@ from backend.storage.json_storage import JSONStorage
 from backend.utils.validator import EventValidator
 from backend.utils.merger import EventMerger
 from backend.scrapers.generic import GenericWebsiteScraper
-from backend.scrapers.gmail_scraper import GmailNewsletterScraper
+
+# Try to import Gmail scraper (optional - requires google libraries)
+try:
+    from backend.scrapers.gmail_scraper import GmailNewsletterScraper
+    GMAIL_AVAILABLE = True
+except ImportError:
+    GMAIL_AVAILABLE = False
+    GmailNewsletterScraper = None
 
 # Custom scrapers
 from backend.scrapers.custom.apsa import APsAScraper
@@ -90,7 +97,7 @@ class ScraperOrchestrator:
                 })
 
         # Scrape newsletters
-        if newsletter_sources:
+        if newsletter_sources and GMAIL_AVAILABLE:
             try:
                 gmail_scraper = GmailNewsletterScraper(newsletter_sources)
                 events = gmail_scraper.scrape()
@@ -105,6 +112,8 @@ class ScraperOrchestrator:
                     'source': 'Gmail Newsletters',
                     'error': str(e)
                 })
+        elif newsletter_sources and not GMAIL_AVAILABLE:
+            logger.warning("Gmail scraping skipped - google libraries not installed")
 
         # Process events
         logger.info(f"Collected {len(all_events)} raw events")

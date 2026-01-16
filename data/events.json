@@ -1,193 +1,1035 @@
 {
-    "metadata": {
-        "last_updated": "2026-01-16T21:55:00Z",
-        "count": 5
+  "metadata": {
+    "last_updated": "2026-01-16T22:06:14.655661",
+    "count": 33
+  },
+  "events": [
+    {
+      "id": "apsa-conf-2026",
+      "title": "APsA National Meeting 2026",
+      "description": "The annual national meeting of the American Psychoanalytic Association brings together psychoanalysts from across the country for presentations, workshops, and networking.",
+      "event_type": "conference",
+      "format": "hybrid",
+      "start_date": "2026-02-15T09:00:00",
+      "end_date": "2026-02-18T17:00:00",
+      "timezone": "America/New_York",
+      "location": {
+        "venue": "Marriott Marquis",
+        "city": "New York",
+        "country": "USA"
+      },
+      "organizer": {
+        "name": "American Psychoanalytic Association",
+        "url": "https://apsa.org"
+      },
+      "registration": {
+        "url": "https://apsa.org/meetings-events/",
+        "fee": "$450 members / $600 non-members"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://apsa.org/meetings-events/",
+        "name": "American Psychoanalytic Association",
+        "scraped_at": "2026-01-16T06:00:00Z"
+      },
+      "completeness_score": 100,
+      "missing_fields": [],
+      "tags": [
+        "annual meeting",
+        "psychoanalysis"
+      ],
+      "created_at": "2026-01-16T06:00:00Z",
+      "updated_at": "2026-01-16T06:00:00Z"
     },
-    "events": [
-        {
-            "id": "apsa-conf-2026",
-            "title": "APsA National Meeting 2026",
-            "description": "The annual national meeting of the American Psychoanalytic Association brings together psychoanalysts from across the country for presentations, workshops, and networking.",
-            "event_type": "conference",
-            "format": "hybrid",
-            "start_date": "2026-02-15T09:00:00",
-            "end_date": "2026-02-18T17:00:00",
-            "timezone": "America/New_York",
-            "location": {
-                "venue": "Marriott Marquis",
-                "city": "New York",
-                "country": "USA"
-            },
-            "organizer": {
-                "name": "American Psychoanalytic Association",
-                "url": "https://apsa.org"
-            },
-            "registration": {
-                "url": "https://apsa.org/meetings-events/",
-                "fee": "$450 members / $600 non-members"
-            },
-            "source": {
-                "type": "website",
-                "url": "https://apsa.org/meetings-events/",
-                "name": "American Psychoanalytic Association",
-                "scraped_at": "2026-01-16T06:00:00Z"
-            },
-            "completeness_score": 100,
-            "missing_fields": [],
-            "tags": [
-                "annual meeting",
-                "psychoanalysis"
-            ],
-            "created_at": "2026-01-16T06:00:00Z",
-            "updated_at": "2026-01-16T06:00:00Z"
-        },
-        {
-            "id": "bpc-webinar-2026",
-            "title": "Contemporary Perspectives on Transference",
-            "description": "A webinar exploring modern approaches to understanding and working with transference in psychoanalytic treatment.",
-            "event_type": "webinar",
-            "format": "online",
-            "start_date": "2026-01-25T18:00:00",
-            "timezone": "Europe/London",
-            "location": {
-                "online_url": "https://zoom.us/webinar"
-            },
-            "organizer": {
-                "name": "British Psychoanalytic Council",
-                "url": "https://www.bpc.org.uk"
-            },
-            "registration": {
-                "url": "https://www.bpc.org.uk/events/",
-                "fee": "Free for members"
-            },
-            "source": {
-                "type": "website",
-                "url": "https://www.bpc.org.uk/events/",
-                "name": "British Psychoanalytic Council",
-                "scraped_at": "2026-01-16T06:00:00Z"
-            },
-            "completeness_score": 90,
-            "missing_fields": [
-                "end_date"
-            ],
-            "tags": [
-                "transference",
-                "webinar"
-            ],
-            "created_at": "2026-01-16T06:00:00Z",
-            "updated_at": "2026-01-16T06:00:00Z"
-        },
-        {
-            "id": "chicago-workshop-2026",
-            "title": "Working with Dreams in Clinical Practice",
-            "description": "An intensive two-day workshop focusing on the interpretation and clinical use of dreams in psychoanalytic therapy.",
-            "event_type": "workshop",
-            "format": "in-person",
-            "start_date": "2026-03-08T09:00:00",
-            "end_date": "2026-03-09T17:00:00",
-            "timezone": "America/Chicago",
-            "location": {
-                "venue": "Chicago Institute for Psychoanalysis",
-                "city": "Chicago",
-                "country": "USA"
-            },
-            "organizer": {
-                "name": "Chicago Psychoanalytic Society",
-                "url": "https://www.chicagopsychoanalyticsociety.org"
-            },
-            "registration": {
-                "url": "https://www.chicagopsychoanalyticsociety.org/events",
-                "fee": "$350"
-            },
-            "source": {
-                "type": "website",
-                "url": "https://www.chicagopsychoanalyticsociety.org/",
-                "name": "Chicago Psychoanalytic Society",
-                "scraped_at": "2026-01-16T06:00:00Z"
-            },
-            "completeness_score": 100,
-            "missing_fields": [],
-            "tags": [
-                "dreams",
-                "clinical practice"
-            ],
-            "created_at": "2026-01-16T06:00:00Z",
-            "updated_at": "2026-01-16T06:00:00Z"
-        },
-        {
-            "id": "pi-lecture-2026",
-            "title": "Lacan and Contemporary Psychoanalysis",
-            "description": "A lecture examining the continuing relevance of Lacanian theory in current psychoanalytic practice.",
-            "event_type": "lecture",
-            "format": "hybrid",
-            "start_date": "2026-02-01T19:00:00",
-            "timezone": "America/New_York",
-            "location": {
-                "venue": "Virtual and In-Person",
-                "city": "Online",
-                "online_url": "https://zoom.us/meeting"
-            },
-            "organizer": {
-                "name": "Psychoanalytic Inquiry",
-                "url": "https://www.psychoanalyticinquiry.com"
-            },
-            "registration": {
-                "url": "https://www.psychoanalyticinquiry.com/"
-            },
-            "source": {
-                "type": "website",
-                "url": "https://www.psychoanalyticinquiry.com/",
-                "name": "Psychoanalytic Inquiry",
-                "scraped_at": "2026-01-16T06:00:00Z"
-            },
-            "completeness_score": 80,
-            "missing_fields": [
-                "fee",
-                "end_date"
-            ],
-            "tags": [
-                "Lacanian",
-                "theory"
-            ],
-            "created_at": "2026-01-16T06:00:00Z",
-            "updated_at": "2026-01-16T06:00:00Z"
-        },
-        {
-            "id": "ipa-congress-2026",
-            "title": "IPA World Congress 2026",
-            "description": "The International Psychoanalytical Association's biennial world congress brings together psychoanalysts from around the globe.",
-            "event_type": "conference",
-            "format": "in-person",
-            "start_date": "2026-07-20T09:00:00",
-            "end_date": "2026-07-24T18:00:00",
-            "timezone": "Europe/Berlin",
-            "location": {
-                "venue": "Berlin Congress Center",
-                "city": "Berlin",
-                "country": "Germany"
-            },
-            "organizer": {
-                "name": "International Psychoanalytical Association",
-                "url": "https://www.ipa.world"
-            },
-            "registration": {
-                "url": "https://www.ipa.world/congress",
-                "fee": "€800"
-            },
-            "source": {
-                "type": "website",
-                "url": "https://www.ipa.world/",
-                "name": "IPA",
-                "scraped_at": "2026-01-16T06:00:00Z"
-            },
-            "completeness_score": 100,
-            "missing_fields": [],
-            "tags": [
-                "international",
-                "congress"
-            ],
-            "created_at": "2026-01-16T06:00:00Z",
-            "updated_at": "2026-01-16T06:00:00Z"
-        }
-    ]
+    {
+      "id": "bpc-webinar-2026",
+      "title": "Contemporary Perspectives on Transference",
+      "description": "A webinar exploring modern approaches to understanding and working with transference in psychoanalytic treatment.",
+      "event_type": "webinar",
+      "format": "online",
+      "start_date": "2026-01-25T18:00:00",
+      "timezone": "Europe/London",
+      "location": {
+        "online_url": "https://zoom.us/webinar"
+      },
+      "organizer": {
+        "name": "British Psychoanalytic Council",
+        "url": "https://www.bpc.org.uk"
+      },
+      "registration": {
+        "url": "https://www.bpc.org.uk/events/",
+        "fee": "Free for members"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.bpc.org.uk/events/",
+        "name": "British Psychoanalytic Council",
+        "scraped_at": "2026-01-16T06:00:00Z"
+      },
+      "completeness_score": 90,
+      "missing_fields": [
+        "end_date"
+      ],
+      "tags": [
+        "transference",
+        "webinar"
+      ],
+      "created_at": "2026-01-16T06:00:00Z",
+      "updated_at": "2026-01-16T06:00:00Z"
+    },
+    {
+      "id": "chicago-workshop-2026",
+      "title": "Working with Dreams in Clinical Practice",
+      "description": "An intensive two-day workshop focusing on the interpretation and clinical use of dreams in psychoanalytic therapy.",
+      "event_type": "workshop",
+      "format": "in-person",
+      "start_date": "2026-03-08T09:00:00",
+      "end_date": "2026-03-09T17:00:00",
+      "timezone": "America/Chicago",
+      "location": {
+        "venue": "Chicago Institute for Psychoanalysis",
+        "city": "Chicago",
+        "country": "USA"
+      },
+      "organizer": {
+        "name": "Chicago Psychoanalytic Society",
+        "url": "https://www.chicagopsychoanalyticsociety.org"
+      },
+      "registration": {
+        "url": "https://www.chicagopsychoanalyticsociety.org/events",
+        "fee": "$350"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.chicagopsychoanalyticsociety.org/",
+        "name": "Chicago Psychoanalytic Society",
+        "scraped_at": "2026-01-16T06:00:00Z"
+      },
+      "completeness_score": 100,
+      "missing_fields": [],
+      "tags": [
+        "dreams",
+        "clinical practice"
+      ],
+      "created_at": "2026-01-16T06:00:00Z",
+      "updated_at": "2026-01-16T06:00:00Z"
+    },
+    {
+      "id": "pi-lecture-2026",
+      "title": "Lacan and Contemporary Psychoanalysis",
+      "description": "A lecture examining the continuing relevance of Lacanian theory in current psychoanalytic practice.",
+      "event_type": "lecture",
+      "format": "hybrid",
+      "start_date": "2026-02-01T19:00:00",
+      "timezone": "America/New_York",
+      "location": {
+        "venue": "Virtual and In-Person",
+        "city": "Online",
+        "online_url": "https://zoom.us/meeting"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "registration": {
+        "url": "https://www.psychoanalyticinquiry.com/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T06:00:00Z"
+      },
+      "completeness_score": 80,
+      "missing_fields": [
+        "fee",
+        "end_date"
+      ],
+      "tags": [
+        "Lacanian",
+        "theory"
+      ],
+      "created_at": "2026-01-16T06:00:00Z",
+      "updated_at": "2026-01-16T06:00:00Z"
+    },
+    {
+      "id": "ipa-congress-2026",
+      "title": "IPA World Congress 2026",
+      "description": "The International Psychoanalytical Association's biennial world congress brings together psychoanalysts from around the globe.",
+      "event_type": "conference",
+      "format": "in-person",
+      "start_date": "2026-07-20T09:00:00",
+      "end_date": "2026-07-24T18:00:00",
+      "timezone": "Europe/Berlin",
+      "location": {
+        "venue": "Berlin Congress Center",
+        "city": "Berlin",
+        "country": "Germany"
+      },
+      "organizer": {
+        "name": "International Psychoanalytical Association",
+        "url": "https://www.ipa.world"
+      },
+      "registration": {
+        "url": "https://www.ipa.world/congress",
+        "fee": "€800"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.ipa.world/",
+        "name": "IPA",
+        "scraped_at": "2026-01-16T06:00:00Z"
+      },
+      "completeness_score": 100,
+      "missing_fields": [],
+      "tags": [
+        "international",
+        "congress"
+      ],
+      "created_at": "2026-01-16T06:00:00Z",
+      "updated_at": "2026-01-16T06:00:00Z"
+    },
+    {
+      "title": "Events",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {
+        "country": "United Kingdom"
+      },
+      "registration": {
+        "url": "https://www.bpc.org.uk/events/add-your-event/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.bpc.org.uk/events/",
+        "name": "British Psychoanalytic Council",
+        "scraped_at": "2026-01-16T22:05:58.855279"
+      },
+      "organizer": {
+        "name": "British Psychoanalytic Council",
+        "url": "https://www.bpc.org.uk"
+      },
+      "id": "48920f191022e211",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "All eventsBPC EventMI EventNon BPC Event",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {
+        "country": "United Kingdom"
+      },
+      "registration": {},
+      "source": {
+        "type": "website",
+        "url": "https://www.bpc.org.uk/events/",
+        "name": "British Psychoanalytic Council",
+        "scraped_at": "2026-01-16T22:05:58.857583"
+      },
+      "organizer": {
+        "name": "British Psychoanalytic Council",
+        "url": "https://www.bpc.org.uk"
+      },
+      "id": "04480c0569f1ccce",
+      "completeness_score": 40,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location",
+        "registration_url"
+      ]
+    },
+    {
+      "title": "BPC Trainee Day: working together for safe psychoanalytic therapy",
+      "description": null,
+      "start_date": "2026-02-21T00:00:00",
+      "format": "online",
+      "event_type": "workshop",
+      "location": {
+        "country": "United Kingdom"
+      },
+      "registration": {
+        "url": "https://www.bpc.org.uk/event/bpc-trainee-day-working-together-for-safe-psychoanalytic-therapy/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.bpc.org.uk/events/",
+        "name": "British Psychoanalytic Council",
+        "scraped_at": "2026-01-16T22:05:58.861026"
+      },
+      "organizer": {
+        "name": "British Psychoanalytic Council",
+        "url": "https://www.bpc.org.uk"
+      },
+      "id": "94b303de7e296c72",
+      "completeness_score": 80,
+      "missing_fields": [
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Promotion of non-BPC events does not signify endorsement of the external website(s); we also take no responsibility for the content of the linked website(s).Please note, Psychoanalytic Psychotherapy N",
+      "description": "Promotion of non-BPC events does not signify endorsement of the external website(s); we also take no responsibility for the content of the linked website(s).",
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {
+        "country": "United Kingdom"
+      },
+      "registration": {},
+      "source": {
+        "type": "website",
+        "url": "https://www.bpc.org.uk/events/",
+        "name": "British Psychoanalytic Council",
+        "scraped_at": "2026-01-16T22:05:58.864238"
+      },
+      "organizer": {
+        "name": "British Psychoanalytic Council",
+        "url": "https://www.bpc.org.uk"
+      },
+      "id": "967b54148b6b95a3",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "location",
+        "registration_url"
+      ]
+    },
+    {
+      "title": "Neuroscience, Neurology and Brain Disorders",
+      "description": null,
+      "start_date": "2026-01-14T00:00:00",
+      "format": "online",
+      "event_type": "workshop",
+      "location": {
+        "country": "United Kingdom"
+      },
+      "registration": {
+        "url": "https://www.bpc.org.uk/event/neuroscience-neurology-and-brain-disorders/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.bpc.org.uk/events/",
+        "name": "British Psychoanalytic Council",
+        "scraped_at": "2026-01-16T22:05:58.882913"
+      },
+      "organizer": {
+        "name": "British Psychoanalytic Council",
+        "url": "https://www.bpc.org.uk"
+      },
+      "id": "632996278fc9a88c",
+      "completeness_score": 80,
+      "missing_fields": [
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "See Presentation Archive",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "lecture",
+      "location": {},
+      "registration": {
+        "url": "https://www.psychoanalyticinquiry.com/presentation-vault/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.437415"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "e83e6fe7dfd87316",
+      "completeness_score": 60,
+      "missing_fields": [
+        "start_date",
+        "description",
+        "location"
+      ],
+      "tags": [],
+      "updated_at": "2026-01-16T22:06:14.617828"
+    },
+    {
+      "title": "See Past Events",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "url": "https://www.psychoanalyticinquiry.com/past-events/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.439042"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "95cd70b03a344cda",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ],
+      "tags": [],
+      "updated_at": "2026-01-16T22:06:14.617930"
+    },
+    {
+      "title": "Human Spirit – Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism – Andrea Shalom Kornhauser, Ph.D. and Uri Movshovitz, Ph.D. | Session One",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/human-spirit-selfobject-psychology-dharma-based-breakthrough-for-psychoanalysis-preservation-for-buddhism/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.451161"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "421d53b0507c4e76",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Virtual | Free | DLE",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.451652"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "00133211736b7ad5",
+      "completeness_score": 40,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location",
+        "registration_url"
+      ],
+      "tags": [],
+      "updated_at": "2026-01-16T22:06:14.629639"
+    },
+    {
+      "title": "Defenses against Truth-Telling and Reparative Action – Lynne Layton",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/defenses-against-truth-telling-and-reparative-action/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.456834"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "75d01191088b5ba3",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Psychoanalysis and Translation – Steven Groarke",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-steven-groarke/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.465956"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "bbebb6e70304dbf4",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Virtual | Free | C&C",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.466829"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "979d8b92fecb2542",
+      "completeness_score": 40,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location",
+        "registration_url"
+      ],
+      "tags": [],
+      "updated_at": "2026-01-16T22:06:14.639091"
+    },
+    {
+      "title": "The Wolf Shattered: Masculine Sexual Predatory Aggression Reconsidered – Dhwani Shah",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-dhwani-shah/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.471855"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "f459df8818c3ae16",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Human Spirit – Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism – Orly Shoshani, Ph.D. and Karina Goldberg, Ph.D. | Session Two",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/human-spirit-selfobject-psychology-dharma-based-breakthrough-for-psychoanalysis-preservation-for-buddhism-session-two/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.477816"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "c01f0021be217795",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session One",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/narrative-listening-and-the-semiotics-of-possibility-session-one/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.484883"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "9ac15060cb505e12",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ],
+      "tags": [],
+      "updated_at": "2026-01-16T22:06:14.629341"
+    },
+    {
+      "title": "A complexity clinician talks about freedom Toward an ethics of relational accountability – Max Sucharov",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "lecture",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-max-sucharov/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.491136"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "61e092310d164771",
+      "completeness_score": 60,
+      "missing_fields": [
+        "start_date",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Revising the standard, revisioning Freud: (De)institutionalizing the Revised Standard Edition – John Dall’Aglio, Daniel José Gaztambide, Daniela Flores Mosri, Edward Distel",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/revising-the-standard-revisioning-freud-deinstitutionalizing-the-revised-standard-edition-john-dallaglio-daniel-jose-gaztambide-daniela-flores-mosri-edward-distel/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.506715"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "1257d3d1224824c7",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Human Spirit – Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism – Osnat Schwartz-Stav, Ph.D. and Eran Rudolphson, MA. | Session Three",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/human-spirit-selfobject-psychology-dharma-based-breakthrough-for-psychoanalysis-preservation-for-buddhism-session-three/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.514667"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "be58770b12e7fc12",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-heather-ferguson-and-sarah-mendelsohn/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.543699"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "c416697c54102261",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-dianne-elise-2/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.549531"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "fb2e89d271c9c1e6",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-gregory-s-rizzolo/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.556309"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "0dc0344946e1260b",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "What sort of language is the unconscious structured like? A Lacanian neuropsychoanalytic perspective – John Dall’Aglio",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-john-dallaglio/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.565365"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "f907d89d6366f1fe",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-sien-rivera/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.578433"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "4c9a424132f3c1fa",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-anne-j-adelman/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.585733"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "d522bdf77c26ca42",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-lynne-layton/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.591115"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "1d5db4169f6756ac",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
+      "description": null,
+      "start_date": null,
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-sara-ekenstierna/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.598950"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "db3d86199287c018",
+      "completeness_score": 50,
+      "missing_fields": [
+        "start_date",
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Psychoanalytic self psychology in the treatment of anorexia and bulimia – Professor Eytan Bachar",
+      "description": null,
+      "start_date": "2027-02-06T00:00:00",
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-eytan-bachar/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.605534"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "6f10221b08c2cc07",
+      "completeness_score": 70,
+      "missing_fields": [
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
+      "description": null,
+      "start_date": "2027-04-18T00:00:00",
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-kevin-volkan/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:06:14.611219"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "953a68972b3adff3",
+      "completeness_score": 70,
+      "missing_fields": [
+        "event_type",
+        "description",
+        "location"
+      ]
+    }
+  ]
 }
