@@ -41,8 +41,21 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
+          
+          # Fetch latest changes first
+          git fetch origin main
+          
+          # Stash our changes, pull latest, then apply
+          git stash --include-untracked || true
+          git pull origin main --rebase || true
+          git stash pop || true
+          
+          # Now add and commit
           git add data/events.json data/sources.json frontend/public/data/events.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update events data - $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git pull --rebase origin main && git push)
+          if ! git diff --quiet --staged; then
+            git commit -m "Update events data - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push origin main
+          fi
 
   deploy-frontend:
     needs: scrape
