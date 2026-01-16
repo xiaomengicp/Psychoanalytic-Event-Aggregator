@@ -85,11 +85,11 @@ function App() {
     return (
         <div className="min-h-screen">
             {/* Header */}
-            <header className="glass-card sticky top-0 z-50 border-b border-purple-100">
+            <header className="glass-card sticky top-0 z-50 border-b border-slate-200">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
                     <div className="flex items-center justify-between">
                         <div className="flex items-center gap-3">
-                            <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary-500 to-primary-700 flex items-center justify-center">
+                            <div className="w-10 h-10 rounded-lg bg-blue-600 flex items-center justify-center">
                                 <span className="text-white text-xl font-serif">ψ</span>
                             </div>
                             <div>
@@ -125,7 +125,7 @@ function App() {
                 {/* Content */}
                 {loading ? (
                     <div className="flex items-center justify-center py-20">
-                        <div className="animate-spin rounded-full h-12 w-12 border-4 border-primary-200 border-t-primary-600"></div>
+                        <div className="animate-spin rounded-full h-12 w-12 border-4 border-blue-100 border-t-blue-600"></div>
                     </div>
                 ) : error ? (
                     <div className="glass-card rounded-xl p-8 text-center">
@@ -138,7 +138,7 @@ function App() {
             </main>
 
             {/* Footer */}
-            <footer className="border-t border-purple-100 mt-12 py-6">
+            <footer className="border-t border-slate-200 mt-12 py-6">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-sm text-gray-500">
                     <p>
                         Aggregating psychoanalytic events from leading organizations worldwide.

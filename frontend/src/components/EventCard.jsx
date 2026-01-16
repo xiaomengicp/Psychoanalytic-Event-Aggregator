@@ -108,20 +108,20 @@ export default function EventCard({ event }) {
             )}
 
             {/* Actions */}
-            <div className="mt-auto pt-3 border-t border-purple-50">
+            <div className="mt-auto pt-3 border-t border-slate-100">
                 {event.registration?.url ? (
                     <a
                         href={event.registration.url}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="block w-full text-center px-4 py-2.5 bg-gradient-to-r from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 text-white font-medium rounded-xl transition-all transform hover:scale-[1.02] active:scale-[0.98]"
+                        className="block w-full text-center px-4 py-2.5 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors"
                     >
                         View Details
                     </a>
                 ) : (
                     <button
                         disabled
-                        className="block w-full text-center px-4 py-2.5 bg-gray-100 text-gray-400 font-medium rounded-xl cursor-not-allowed"
+                        className="block w-full text-center px-4 py-2.5 bg-slate-100 text-slate-400 font-medium rounded-lg cursor-not-allowed"
                     >
                         No link available
                     </button>
