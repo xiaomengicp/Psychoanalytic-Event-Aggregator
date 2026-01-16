@@ -41,8 +41,8 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
-          git add data/events.json data/sources.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update events data - $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)
+          git add data/events.json data/sources.json frontend/public/data/events.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update events data - $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git pull --rebase origin main && git push)
 
   deploy-frontend:
     needs: scrape
