@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "last_updated": "2026-01-16T22:13:17.234580",
+    "count": 4
+  },
+  "events": [
+    {
+      "title": "BPC Trainee Day: working together for safe psychoanalytic therapy",
+      "description": null,
+      "start_date": "2026-02-21T00:00:00",
+      "format": "online",
+      "event_type": "workshop",
+      "location": {
+        "country": "United Kingdom"
+      },
+      "registration": {
+        "url": "https://www.bpc.org.uk/event/bpc-trainee-day-working-together-for-safe-psychoanalytic-therapy/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.bpc.org.uk/events/",
+        "name": "British Psychoanalytic Council",
+        "scraped_at": "2026-01-16T22:13:02.728528"
+      },
+      "organizer": {
+        "name": "British Psychoanalytic Council",
+        "url": "https://www.bpc.org.uk"
+      },
+      "id": "94b303de7e296c72",
+      "completeness_score": 80,
+      "missing_fields": [
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Neuroscience, Neurology and Brain Disorders",
+      "description": null,
+      "start_date": "2026-01-14T00:00:00",
+      "format": "online",
+      "event_type": "workshop",
+      "location": {
+        "country": "United Kingdom"
+      },
+      "registration": {
+        "url": "https://www.bpc.org.uk/event/neuroscience-neurology-and-brain-disorders/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.bpc.org.uk/events/",
+        "name": "British Psychoanalytic Council",
+        "scraped_at": "2026-01-16T22:13:02.749119"
+      },
+      "organizer": {
+        "name": "British Psychoanalytic Council",
+        "url": "https://www.bpc.org.uk"
+      },
+      "id": "632996278fc9a88c",
+      "completeness_score": 80,
+      "missing_fields": [
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Psychoanalytic self psychology in the treatment of anorexia and bulimia – Professor Eytan Bachar",
+      "description": null,
+      "start_date": "2027-02-06T00:00:00",
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-eytan-bachar/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:13:17.210976"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "6f10221b08c2cc07",
+      "completeness_score": 70,
+      "missing_fields": [
+        "event_type",
+        "description",
+        "location"
+      ]
+    },
+    {
+      "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
+      "description": null,
+      "start_date": "2027-04-18T00:00:00",
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-kevin-volkan/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-01-16T22:13:17.216845"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "953a68972b3adff3",
+      "completeness_score": 70,
+      "missing_fields": [
+        "event_type",
+        "description",
+        "location"
+      ]
+    }
+  ]
+}
