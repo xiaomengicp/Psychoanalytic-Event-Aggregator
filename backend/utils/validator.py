@@ -216,7 +216,7 @@ class EventValidator:
             return False
         url = url.strip()
         # Must start with http/https and have reasonable length
-        if not url.startswith(('http://', 'https://')):
+        if not url.startswith(('http://', 'https://', 'mailto:')):
             return False
         if len(url) < 10:
             return False
