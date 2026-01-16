@@ -10,7 +10,7 @@
       "custom_parser": "APsAScraper"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-01-16T22:05:55.550677",
+    "last_scraped": "2026-01-16T22:12:59.491983",
     "active": true,
     "notes": "Primary US psychoanalytic organization"
   },
@@ -25,7 +25,7 @@
       "custom_parser": "BPCScraper"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-01-16T22:05:58.885768",
+    "last_scraped": "2026-01-16T22:13:02.751478",
     "active": true,
     "notes": "UK psychoanalytic regulatory body"
   },
@@ -40,7 +40,7 @@
       "custom_parser": "ChicagoPsychoanalyticScraper"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-01-16T22:06:03.596959",
+    "last_scraped": "2026-01-16T22:13:06.302161",
     "active": true,
     "notes": "Chicago area psychoanalytic society"
   },
@@ -55,7 +55,7 @@
       "custom_parser": "PsychoanalyticInquiryScraper"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-01-16T22:06:14.615367",
+    "last_scraped": "2026-01-16T22:13:17.220114",
     "active": true,
     "notes": "Psychoanalytic journal and events"
   },
