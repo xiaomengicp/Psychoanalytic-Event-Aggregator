@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-01-16T22:13:17.234580",
+    "last_updated": "2026-01-16T22:21:03.966333",
     "count": 4
   },
   "events": [
@@ -89,7 +89,9 @@
         "event_type",
         "description",
         "location"
-      ]
+      ],
+      "tags": [],
+      "updated_at": "2026-01-16T22:21:03.966172"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -118,7 +120,9 @@
         "event_type",
         "description",
         "location"
-      ]
+      ],
+      "tags": [],
+      "updated_at": "2026-01-16T22:21:03.966251"
     }
   ]
 }
