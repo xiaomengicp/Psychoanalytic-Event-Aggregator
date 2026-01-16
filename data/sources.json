@@ -1,0 +1,76 @@
+[
+    {
+        "id": "apsa-events",
+        "name": "American Psychoanalytic Association",
+        "type": "website",
+        "enabled": true,
+        "config": {
+            "url": "https://apsa.org/meetings-events/",
+            "scraper_type": "custom",
+            "custom_parser": "APsAScraper"
+        },
+        "scrape_frequency": "0 6 * * *",
+        "last_scraped": null,
+        "active": true,
+        "notes": "Primary US psychoanalytic organization"
+    },
+    {
+        "id": "bpc-events",
+        "name": "British Psychoanalytic Council",
+        "type": "website",
+        "enabled": true,
+        "config": {
+            "url": "https://www.bpc.org.uk/events/",
+            "scraper_type": "custom",
+            "custom_parser": "BPCScraper"
+        },
+        "scrape_frequency": "0 6 * * *",
+        "last_scraped": null,
+        "active": true,
+        "notes": "UK psychoanalytic regulatory body"
+    },
+    {
+        "id": "chicago-psychoanalytic",
+        "name": "Chicago Psychoanalytic Society",
+        "type": "website",
+        "enabled": true,
+        "config": {
+            "url": "https://www.chicagopsychoanalyticsociety.org/",
+            "scraper_type": "custom",
+            "custom_parser": "ChicagoPsychoanalyticScraper"
+        },
+        "scrape_frequency": "0 6 * * *",
+        "last_scraped": null,
+        "active": true,
+        "notes": "Chicago area psychoanalytic society"
+    },
+    {
+        "id": "psychoanalytic-inquiry",
+        "name": "Psychoanalytic Inquiry",
+        "type": "website",
+        "enabled": true,
+        "config": {
+            "url": "https://www.psychoanalyticinquiry.com/",
+            "scraper_type": "custom",
+            "custom_parser": "PsychoanalyticInquiryScraper"
+        },
+        "scrape_frequency": "0 6 * * *",
+        "last_scraped": null,
+        "active": true,
+        "notes": "Psychoanalytic journal and events"
+    },
+    {
+        "id": "newsletter-ipa",
+        "name": "IPA Newsletter",
+        "type": "newsletter",
+        "enabled": false,
+        "config": {
+            "gmail_sender": "newsletter@ipa.world",
+            "gmail_subject_pattern": "IPA.*Events|Newsletter"
+        },
+        "scrape_frequency": "0 6 * * *",
+        "last_scraped": null,
+        "active": false,
+        "notes": "International Psychoanalytical Association - requires Gmail API setup"
+    }
+]
