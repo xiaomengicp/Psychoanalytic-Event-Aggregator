@@ -158,9 +158,17 @@ class EventValidator:
             if title_lower.startswith(keyword):
                 return True
         
-        # Title is too long (likely scraped an entire paragraph)
         if len(title) > 200:
             return True
+            
+        # Check if title is just a date
+        try:
+            from dateutil import parser as date_parser
+            if len(title) < 50:
+                date_parser.parse(title)
+                return True # It passed as a date
+        except Exception:
+            pass
             
         return False
 

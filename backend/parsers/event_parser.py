@@ -105,11 +105,38 @@ class EventParser:
                     return text[:500]  # Truncate very long titles
 
         # Fallback: first substantial text
+        # Try individual child elements first to avoid merging date+title into one string
+        for child in element.children:
+            if isinstance(child, Tag):
+                text = child.get_text(strip=True)
+                if text and len(text) > 5 and not self._is_likely_date(text):
+                     return text[:200]
+            elif isinstance(child, str) and child.strip():
+                 text = child.strip()
+                 if len(text) > 5 and not self._is_likely_date(text):
+                     return text[:200]
+
         text = element.get_text(strip=True)
         if text:
+            # If the whole text is just a date, it's not a title
+            if self._is_likely_date(text):
+                return None
             return text[:200]
 
         return None
+        
+    def _is_likely_date(self, text: str) -> bool:
+        """Check if text is likely just a date."""
+        if len(text) > 50: # valid titles can be long, dates usually short
+            return False
+        try:
+            # exact=True means the whole string must be a date
+            # dateutil doesn't have exact=True, but we can check if it parses and has no other chars
+            # But fuzzy=False is default.
+            date_parser.parse(text)
+            return True
+        except Exception:
+            return False
 
     def _extract_description(
         self,
