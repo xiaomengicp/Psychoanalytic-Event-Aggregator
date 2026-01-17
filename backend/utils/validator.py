@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 class EventValidator:
     """Validates event data and calculates completeness."""
 
-    REQUIRED_FIELDS = ['title', 'source']
+    REQUIRED_FIELDS = ['title', 'source', 'start_date']
     
     # Titles that indicate non-event items (navigation, buttons, garbage, etc.)
     INVALID_TITLE_PATTERNS = [
@@ -108,7 +108,7 @@ class EventValidator:
                 errors.append("Title looks like navigation/button text")
         
         # Date validation: if provided, should be reasonable
-        # Allow events without dates, but reject clearly past events
+        # Strict validation: reject past events
         start_date = event.get('start_date')
         if start_date and not self._is_valid_date(start_date):
             errors.append("Invalid or too old start_date")
@@ -165,14 +165,14 @@ class EventValidator:
         return False
 
     def _is_valid_date(self, date_value: Any) -> bool:
-        """Check if date is valid and not too far in the past.
+        """Check if date is valid and not in the past.
         
-        More lenient validation:
-        - Events up to 30 days in the past are OK (for recently passed)
+        More strict validation:
+        - Events must be in the future or very recent (last 24h)
         - Events up to 3 years in the future are OK
         """
         if not date_value:
-            return True  # No date is OK - we don't want to filter out events without dates
+            return False  # Date is now required
         
         try:
             if isinstance(date_value, str):
@@ -180,17 +180,16 @@ class EventValidator:
             elif isinstance(date_value, datetime):
                 dt = date_value
             else:
-                return True  # Unknown format, allow it
+                return False  # Unknown format
             
-            # Allow events up to 30 days in the past (for recently passed events)
-            # and up to 3 years in the future
+            # Allow events from yesterday onwards (to account for timezone differences)
             now = datetime.now(dt.tzinfo) if dt.tzinfo else datetime.now()
-            min_date = now - timedelta(days=30)
+            min_date = now - timedelta(days=1)
             max_date = now + timedelta(days=1095)  # ~3 years
             
             return min_date <= dt <= max_date
         except (ValueError, TypeError):
-            return True  # If we can't parse, don't filter it out
+            return False
 
     def _has_valid_url(self, event: Dict[str, Any]) -> bool:
         """Check if event has a valid URL."""
@@ -215,13 +214,13 @@ class EventValidator:
         if not url or not isinstance(url, str):
             return False
         url = url.strip()
-        # Must start with http/https and have reasonable length
+        # Must start with http/https/mailto and have reasonable length
         if not url.startswith(('http://', 'https://', 'mailto:')):
             return False
         if len(url) < 10:
             return False
         # Basic URL pattern check
-        return '.' in url
+        return '.' in url or '@' in url
 
     def calculate_completeness(self, event: Dict[str, Any]) -> Tuple[int, List[str]]:
         """
