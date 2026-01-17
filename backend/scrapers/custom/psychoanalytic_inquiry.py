@@ -21,40 +21,38 @@ class PsychoanalyticInquiryScraper(BaseScraper):
 
     def scrape(self) -> List[Dict[str, Any]]:
         """Scrape events from Psychoanalytic Inquiry website."""
-        html = self.fetch_url(self.base_url)
+        # Try specific events page first
+        events_url = "https://www.psychoanalyticinquiry.com/event-calendar/"
+        html = self.fetch_url(events_url)
+        
+        if not html:
+            # Fallback to base
+            html = self.fetch_url(self.base_url)
+            
         if not html:
             return []
 
         soup = self.parse_html(html)
         events = []
 
-        # Try various common event container selectors
-        event_containers = (
-            soup.select('.event') or
-            soup.select('.events .item') or
-            soup.select('article.event') or
-            soup.select('[class*="event"]') or
-            soup.select('.calendar-item')
-        )
-
-        # Also look for events page link and scrape it
-        events_link = soup.select_one('a[href*="event"], a[href*="calendar"]')
-        if events_link and events_link.has_attr('href'):
-            events_page_url = self.make_absolute_url(events_link['href'], self.base_url)
-            events_html = self.fetch_url(events_page_url)
-            if events_html:
-                events_soup = self.parse_html(events_html)
-                additional = (
-                    events_soup.select('.event') or
-                    events_soup.select('[class*="event"]')
-                )
-                event_containers.extend(additional)
+        # Target specific container verified in browser
+        event_containers = soup.select('.post-card') or soup.select('article.post')
+        
+        if not event_containers:
+            # Fallback to generic search
+            event_containers = (
+                soup.select('.event') or
+                soup.select('.events .item') or
+                soup.select('article.event') or
+                soup.select('[class*="event"]') or
+                soup.select('.calendar-item')
+            )
 
         logger.info(f"Psychoanalytic Inquiry: Found {len(event_containers)} potential events")
 
         source_info = {
             'name': 'Psychoanalytic Inquiry',
-            'url': self.base_url,
+            'url': events_url,
             'type': 'website',
         }
 
@@ -72,7 +70,14 @@ class PsychoanalyticInquiryScraper(BaseScraper):
 
     def _parse_event(self, element, source_info: Dict) -> Dict[str, Any]:
         """Parse a single event element."""
-        event = self.parser.parse_event_from_html(element, source_info)
+        # Specific selectors for Avada/Fusion builder
+        selectors = {
+            'title': 'h2.fusion-title-heading, .fusion-post-title, .entry-title',
+            'date': '.fusion-text p, .updated, .published', # Date often in generic text block
+            'description': '.fusion-text'
+        }
+        
+        event = self.parser.parse_event_from_html(element, source_info, selectors=selectors)
         
         if not event:
             return None
@@ -83,14 +88,17 @@ class PsychoanalyticInquiryScraper(BaseScraper):
             'url': 'https://www.psychoanalyticinquiry.com',
         }
 
-        # Look for event link
-        link = element.select_one('a[href]')
+        # Look for event link in title
+        link = element.select_one('h2.fusion-title-heading a, .fusion-post-title a, a.fusion-read-more')
+        if not link:
+            link = element.select_one('a[href]')
+            
         if link and link.has_attr('href'):
             event_url = self.make_absolute_url(link['href'], self.base_url)
             event['registration'] = event.get('registration', {})
             if not event['registration'].get('url'):
                 event['registration']['url'] = event_url
-
+                
         # Generate ID
         event['id'] = self._generate_id(event)
         
