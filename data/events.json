@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-01-16T23:15:25.881014",
-    "count": 23
+    "last_updated": "2026-01-17T00:00:13.429344",
+    "count": 18
   },
   "events": [
     {
@@ -31,550 +31,12 @@
       "missing_fields": [
         "description",
         "location"
-      ]
-    },
-    {
-      "title": "Neuroscience, Neurology and Brain Disorders",
-      "description": null,
-      "start_date": "2026-01-14T00:00:00",
-      "format": "online",
-      "event_type": "workshop",
-      "location": {
-        "country": "United Kingdom"
-      },
-      "registration": {
-        "url": "https://www.bpc.org.uk/event/neuroscience-neurology-and-brain-disorders/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.bpc.org.uk/events/",
-        "name": "British Psychoanalytic Council",
-        "scraped_at": "2026-01-16T23:14:08.162333"
-      },
-      "organizer": {
-        "name": "British Psychoanalytic Council",
-        "url": "https://www.bpc.org.uk"
-      },
-      "id": "632996278fc9a88c",
-      "completeness_score": 80,
-      "missing_fields": [
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Human Spirit \u2013 Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism \u2013\u00a0Andrea Shalom Kornhauser, Ph.D. and Uri Movshovitz, Ph.D. | Session One",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/human-spirit-selfobject-psychology-dharma-based-breakthrough-for-psychoanalysis-preservation-for-buddhism/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.357577"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "421d53b0507c4e76",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Defenses against Truth-Telling and Reparative Action \u2013 Lynne Layton",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/defenses-against-truth-telling-and-reparative-action/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.368540"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "75d01191088b5ba3",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Psychoanalysis and Translation \u2013 Steven Groarke",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-steven-groarke/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.379935"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "bbebb6e70304dbf4",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "The Wolf Shattered: Masculine Sexual Predatory Aggression Reconsidered \u2013 Dhwani Shah",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-dhwani-shah/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.391134"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "f459df8818c3ae16",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Human Spirit \u2013 Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism \u2013 Orly Shoshani, Ph.D. and Karina Goldberg, Ph.D. | Session Two",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/human-spirit-selfobject-psychology-dharma-based-breakthrough-for-psychoanalysis-preservation-for-buddhism-session-two/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.405420"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "c01f0021be217795",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Narrative, Listening and the Semiotics of Possibility \u2013 Gregory S. Rizzolo, PhD LCPC | Session One",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/narrative-listening-and-the-semiotics-of-possibility-session-one/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.418524"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "9ac15060cb505e12",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
       ],
       "tags": [],
-      "updated_at": "2026-01-16T23:15:25.861442"
+      "updated_at": "2026-01-16T23:48:52.751971"
     },
     {
-      "title": "A complexity clinician talks about freedom Toward an ethics of relational accountability \u2013\u00a0Max Sucharov",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "lecture",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-max-sucharov/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.432231"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "61e092310d164771",
-      "completeness_score": 60,
-      "missing_fields": [
-        "start_date",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Revising the standard, revisioning Freud: (De)institutionalizing the Revised Standard Edition \u2013\u00a0John Dall\u2019Aglio, Daniel Jos\u00e9 Gaztambide, Daniela Flores Mosri, Edward Distel",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/revising-the-standard-revisioning-freud-deinstitutionalizing-the-revised-standard-edition-john-dallaglio-daniel-jose-gaztambide-daniela-flores-mosri-edward-distel/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.462494"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "1257d3d1224824c7",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Human Spirit \u2013 Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism \u2013 Osnat Schwartz-Stav, Ph.D. and Eran Rudolphson, MA. | Session Three",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/human-spirit-selfobject-psychology-dharma-based-breakthrough-for-psychoanalysis-preservation-for-buddhism-session-three/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.477227"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "be58770b12e7fc12",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating \u2013\u00a0Heather Ferguson and Sarah Mendelsohn",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-heather-ferguson-and-sarah-mendelsohn/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.533983"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "c416697c54102261",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "A Winnicottian Approach to Field Theory: Creative Expansions \u2013 Dianne Elise, Ph.D.",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-dianne-elise-2/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.541140"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "fb2e89d271c9c1e6",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "The semiotics of possibility: What are we doing when we make an interpretation? \u2013 Gregory S. Rizzolo, PhD LCPC",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-gregory-s-rizzolo/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.552883"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "0dc0344946e1260b",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "What sort of language is the unconscious structured like? A Lacanian neuropsychoanalytic perspective \u2013 John Dall\u2019Aglio",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-john-dallaglio/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.562747"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "f907d89d6366f1fe",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Beyond Human: The Dynamicisim of Being or Not Being Human \u2013 Sien Rivera",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-sien-rivera/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.578222"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "4c9a424132f3c1fa",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Nostalgia and Absence: Fragmented Memories of a Lost \u201cHome\u201d \u2013 Anne J. Adelman, Ph.D.",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-anne-j-adelman/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.588404"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "d522bdf77c26ca42",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair \u2013\u00a0Lynne Layton",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-lynne-layton/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.595481"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "1d5db4169f6756ac",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "The Realm Between \u2013\u00a0Sara Ekenstierna, PhD, LPsy",
-      "description": null,
-      "start_date": null,
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-sara-ekenstierna/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-16T23:14:22.604333"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "db3d86199287c018",
-      "completeness_score": 50,
-      "missing_fields": [
-        "start_date",
-        "event_type",
-        "description",
-        "location"
-      ]
-    },
-    {
-      "title": "Psychoanalytic self psychology in the treatment of anorexia and bulimia \u2013\u00a0Professor Eytan Bachar",
+      "title": "Psychoanalytic self psychology in the treatment of anorexia and bulimia – Professor Eytan Bachar",
       "description": null,
       "start_date": "2027-02-06T00:00:00",
       "format": "online",
@@ -600,10 +62,12 @@
         "event_type",
         "description",
         "location"
-      ]
+      ],
+      "tags": [],
+      "updated_at": "2026-01-16T23:48:52.760846"
     },
     {
-      "title": "Narcissistic leaders: Bunkers and Monuments \u2013\u00a0Kevin Volkan, EdD, PhD, MPH",
+      "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
       "description": null,
       "start_date": "2027-04-18T00:00:00",
       "format": "online",
@@ -629,7 +93,9 @@
         "event_type",
         "description",
         "location"
-      ]
+      ],
+      "tags": [],
+      "updated_at": "2026-01-16T23:48:52.761514"
     },
     {
       "title": "Psychoanalyse und soziale Ungleichheiten",
@@ -655,7 +121,10 @@
         "event_type",
         "description",
         "organizer"
-      ]
+      ],
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-16T23:48:52.761983"
     },
     {
       "title": "Special Tour \"Documents of Injustice. The Case of Freud\"",
@@ -684,7 +153,247 @@
       ],
       "organizer": {},
       "tags": [],
-      "updated_at": "2026-01-16T23:15:25.870175"
+      "updated_at": "2026-01-16T23:48:52.762462"
+    },
+    {
+      "title": "Psychoanalytic Takes On Cinema",
+      "description": null,
+      "start_date": "2026-01-30T00:00:00",
+      "format": "online",
+      "event_type": "workshop",
+      "location": {},
+      "registration": {
+        "fee": "$275"
+      },
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
+        "scraped_at": "2026-01-16T23:54:02.379472"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-16T23:54:08.761170"
+    },
+    {
+      "title": "Friday, January 30, 20264:00 pm – 5:30 pm (1.5 CME/CE)Presentation and Discussion via Zoom",
+      "description": "Friday, January 30, 20264:00 pm – 5:30 pm (1.5 CME/CE)Presentation and Discussion via Zoom",
+      "start_date": "2026-01-30T00:00:00",
+      "format": "online",
+      "event_type": "lecture",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
+        "scraped_at": "2026-01-16T23:54:02.379804"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-16T23:54:08.772170"
+    },
+    {
+      "title": "Registration Deadline:January 28, 2026 by 4:30 pm ET",
+      "description": "Registration Deadline:January 28, 2026 by 4:30 pm ET",
+      "start_date": "2026-01-28T16:30:00",
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
+        "scraped_at": "2026-01-16T23:54:02.379845"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-16T23:54:08.774366"
+    },
+    {
+      "title": "Psychoanalysis, Creativity and the Arts Seminar",
+      "description": null,
+      "start_date": "2026-03-14T00:00:00",
+      "format": "online",
+      "event_type": "lecture",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
+        "scraped_at": "2026-01-16T23:54:02.379895"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-16T23:54:08.776563"
+    },
+    {
+      "title": "Saturday, March 14, 202612:00 pm – 2:00 pm (2 CME/CE)Presentation and Discussion via Zoom",
+      "description": "Saturday, March 14, 202612:00 pm – 2:00 pm (2 CME/CE)Presentation and Discussion via Zoom",
+      "start_date": "2026-03-14T00:00:00",
+      "format": "online",
+      "event_type": "lecture",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
+        "scraped_at": "2026-01-16T23:54:02.379937"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-16T23:54:08.789187"
+    },
+    {
+      "title": "Registration Deadline:March 11, 2026 by 4:30 pm ET",
+      "description": null,
+      "start_date": "2026-03-11T16:30:00",
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
+        "scraped_at": "2026-01-16T23:54:02.380022"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-16T23:54:08.794354"
+    },
+    {
+      "title": "Annual Colloquium",
+      "description": null,
+      "start_date": "2026-02-28T00:00:00",
+      "format": "in-person",
+      "event_type": "seminar",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
+        "scraped_at": "2026-01-16T23:54:02.380064"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-16T23:54:08.807733"
+    },
+    {
+      "title": "Saturday, February 28, 20269:00am–1:00pmIn-person eventUnitarian Universalist Congregation of RockvilleFounders Hall100 Welsh Park Dr, Rockville, MD 208509:05am–10:30amRoundtable with Kevin Popp and P",
+      "description": null,
+      "start_date": "2026-02-28T00:00:00",
+      "format": "in-person",
+      "event_type": "other",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
+        "scraped_at": "2026-01-16T23:54:02.380114"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-16T23:54:08.660283"
+    },
+    {
+      "title": "2026 Graduation and Awards Ceremony",
+      "description": null,
+      "start_date": "2026-06-06T00:00:00",
+      "format": "in-person",
+      "event_type": "other",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
+        "scraped_at": "2026-01-16T23:54:02.380158"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-16T23:54:08.826878"
+    },
+    {
+      "title": "Saturday, June 6, 20266:00pm–8:00pmIn-person eventHogan Lovells555 13th St NW, Washington, DC 20004More Information Coming Soon",
+      "description": null,
+      "start_date": "2026-06-06T00:00:00",
+      "format": "in-person",
+      "event_type": "other",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
+        "scraped_at": "2026-01-16T23:54:02.380208"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-16T23:54:08.831430"
+    },
+    {
+      "title": "2026 Psychoanalytic Studies Program Virtual Open House",
+      "description": null,
+      "start_date": "2026-02-22T00:00:00",
+      "format": "online",
+      "event_type": "course",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 12/18/25)",
+        "scraped_at": "2026-01-16T23:54:08.455883"
+      }
+    },
+    {
+      "title": "Sunday, February 22, 20263:00pm –5:00pmVia Zoom**The Psychoanalytic Studies Program requires some in-person classes. It is recommended that students be local to the Greater Washington, DC and Baltimor",
+      "description": "Sunday, February 22, 20263:00pm –5:00pmVia Zoom**The Psychoanalytic Studies Program requires some in-person classes. It is recommended that students be local to the Greater Washington, DC and Baltimore areas.",
+      "start_date": "2026-02-22T00:00:00",
+      "format": "online",
+      "event_type": "course",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 12/18/25)",
+        "scraped_at": "2026-01-16T23:54:08.455929"
+      }
+    },
+    {
+      "title": "Saturday, February 28, 20269:00am–12:30pmIn-person eventUnitarian Universalist Congregation of RockvilleFounders Hall100 Welsh Park Dr, Rockville, MD 20850More Information Coming Soon",
+      "description": null,
+      "start_date": "2026-02-28T00:00:00",
+      "format": "in-person",
+      "event_type": "other",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 12/18/25)",
+        "scraped_at": "2026-01-16T23:54:08.456219"
+      }
     }
   ]
 }
