@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-01-17T00:00:13.429344",
-    "count": 18
+    "last_updated": "2026-01-17T00:10:24.255244",
+    "count": 20
   },
   "events": [
     {
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-01-16T23:48:52.760846"
+      "updated_at": "2026-01-17T00:04:48.184643"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -95,7 +95,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-01-16T23:48:52.761514"
+      "updated_at": "2026-01-17T00:04:48.184710"
     },
     {
       "title": "Psychoanalyse und soziale Ungleichheiten",
@@ -156,6 +156,25 @@
       "updated_at": "2026-01-16T23:48:52.762462"
     },
     {
+      "title": "- 2026 Graduation and Awards Ceremony",
+      "description": null,
+      "start_date": "2026-01-17T00:00:00",
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
+        "scraped_at": "2026-01-17T00:10:21.615901"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-17T00:10:24.241623"
+    },
+    {
       "title": "Psychoanalytic Takes On Cinema",
       "description": null,
       "start_date": "2026-01-30T00:00:00",
@@ -170,11 +189,11 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-16T23:54:02.379472"
+        "scraped_at": "2026-01-17T00:10:21.616076"
       },
       "organizer": {},
       "tags": [],
-      "updated_at": "2026-01-16T23:54:08.761170"
+      "updated_at": "2026-01-17T00:10:24.242170"
     },
     {
       "title": "Friday, January 30, 20264:00 pm – 5:30 pm (1.5 CME/CE)Presentation and Discussion via Zoom",
@@ -189,11 +208,11 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-16T23:54:02.379804"
+        "scraped_at": "2026-01-17T00:10:21.616934"
       },
       "organizer": {},
       "tags": [],
-      "updated_at": "2026-01-16T23:54:08.772170"
+      "updated_at": "2026-01-17T00:10:24.243001"
     },
     {
       "title": "Registration Deadline:January 28, 2026 by 4:30 pm ET",
@@ -208,11 +227,11 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-16T23:54:02.379845"
+        "scraped_at": "2026-01-17T00:10:21.617327"
       },
       "organizer": {},
       "tags": [],
-      "updated_at": "2026-01-16T23:54:08.774366"
+      "updated_at": "2026-01-17T00:10:24.243348"
     },
     {
       "title": "Psychoanalysis, Creativity and the Arts Seminar",
@@ -227,11 +246,11 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-16T23:54:02.379895"
+        "scraped_at": "2026-01-17T00:10:21.619766"
       },
       "organizer": {},
       "tags": [],
-      "updated_at": "2026-01-16T23:54:08.776563"
+      "updated_at": "2026-01-17T00:10:24.243638"
     },
     {
       "title": "Saturday, March 14, 202612:00 pm – 2:00 pm (2 CME/CE)Presentation and Discussion via Zoom",
@@ -246,11 +265,11 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-16T23:54:02.379937"
+        "scraped_at": "2026-01-17T00:10:21.620232"
       },
       "organizer": {},
       "tags": [],
-      "updated_at": "2026-01-16T23:54:08.789187"
+      "updated_at": "2026-01-17T00:10:24.244733"
     },
     {
       "title": "Registration Deadline:March 11, 2026 by 4:30 pm ET",
@@ -265,11 +284,11 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-16T23:54:02.380022"
+        "scraped_at": "2026-01-17T00:10:21.620643"
       },
       "organizer": {},
       "tags": [],
-      "updated_at": "2026-01-16T23:54:08.794354"
+      "updated_at": "2026-01-17T00:10:24.249129"
     },
     {
       "title": "Annual Colloquium",
@@ -284,14 +303,14 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-16T23:54:02.380064"
+        "scraped_at": "2026-01-17T00:10:21.620790"
       },
       "organizer": {},
       "tags": [],
-      "updated_at": "2026-01-16T23:54:08.807733"
+      "updated_at": "2026-01-17T00:10:24.252359"
     },
     {
-      "title": "Saturday, February 28, 20269:00am–1:00pmIn-person eventUnitarian Universalist Congregation of RockvilleFounders Hall100 Welsh Park Dr, Rockville, MD 208509:05am–10:30amRoundtable with Kevin Popp and P",
+      "title": "Saturday, February 28, 20269:00am–1:00pm",
       "description": null,
       "start_date": "2026-02-28T00:00:00",
       "format": "in-person",
@@ -303,11 +322,11 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-16T23:54:02.380114"
+        "scraped_at": "2026-01-17T00:10:21.621509"
       },
       "organizer": {},
       "tags": [],
-      "updated_at": "2026-01-16T23:54:08.660283"
+      "updated_at": "2026-01-17T00:10:24.238431"
     },
     {
       "title": "2026 Graduation and Awards Ceremony",
@@ -322,14 +341,14 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-16T23:54:02.380158"
+        "scraped_at": "2026-01-17T00:10:21.622615"
       },
       "organizer": {},
       "tags": [],
-      "updated_at": "2026-01-16T23:54:08.826878"
+      "updated_at": "2026-01-17T00:10:24.253930"
     },
     {
-      "title": "Saturday, June 6, 20266:00pm–8:00pmIn-person eventHogan Lovells555 13th St NW, Washington, DC 20004More Information Coming Soon",
+      "title": "Saturday, June 6, 20266:00pm–8:00pm",
       "description": null,
       "start_date": "2026-06-06T00:00:00",
       "format": "in-person",
@@ -341,11 +360,30 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-16T23:54:02.380208"
+        "scraped_at": "2026-01-17T00:10:21.623645"
       },
       "organizer": {},
       "tags": [],
-      "updated_at": "2026-01-16T23:54:08.831430"
+      "updated_at": "2026-01-17T00:10:24.254928"
+    },
+    {
+      "title": "ARC NEWS • JANUARY 2026",
+      "description": null,
+      "start_date": "2026-01-17T00:00:00",
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {},
+      "source": {
+        "type": "newsletter",
+        "url": "mailto:Austen Riggs Center <aaron.beatty-austenriggs.net@shared1.ccsend.com>",
+        "name": "Psychoanalytic Newsletter (Example)",
+        "email_subject": "January 2026 ARC News: events, news, and more",
+        "scraped_at": "2026-01-17T00:10:23.545532"
+      },
+      "organizer": {},
+      "tags": [],
+      "updated_at": "2026-01-17T00:10:24.241317"
     },
     {
       "title": "2026 Psychoanalytic Studies Program Virtual Open House",
@@ -360,7 +398,7 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 12/18/25)",
-        "scraped_at": "2026-01-16T23:54:08.455883"
+        "scraped_at": "2026-01-17T00:10:24.185842"
       }
     },
     {
@@ -376,11 +414,11 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 12/18/25)",
-        "scraped_at": "2026-01-16T23:54:08.455929"
+        "scraped_at": "2026-01-17T00:10:24.185885"
       }
     },
     {
-      "title": "Saturday, February 28, 20269:00am–12:30pmIn-person eventUnitarian Universalist Congregation of RockvilleFounders Hall100 Welsh Park Dr, Rockville, MD 20850More Information Coming Soon",
+      "title": "Saturday, February 28, 20269:00am–12:30pm",
       "description": null,
       "start_date": "2026-02-28T00:00:00",
       "format": "in-person",
@@ -392,7 +430,7 @@
         "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
         "name": "Psychoanalytic Newsletter (Example)",
         "email_subject": "WBCP Upcoming Program and Event Updates (as of 12/18/25)",
-        "scraped_at": "2026-01-16T23:54:08.456219"
+        "scraped_at": "2026-01-17T00:10:24.185986"
       }
     }
   ]
