@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-01-25T06:29:17.050045",
-    "count": 40
+    "last_updated": "2026-01-26T06:37:33.223481",
+    "count": 39
   },
   "events": [
     {
@@ -125,35 +125,6 @@
       "organizer": {},
       "tags": [],
       "updated_at": "2026-01-16T23:48:52.761983"
-    },
-    {
-      "title": "Special Tour \"Documents of Injustice. The Case of Freud\"",
-      "description": null,
-      "start_date": "2026-01-17T14:00:00+01:00",
-      "format": "in-person",
-      "event_type": "other",
-      "location": {
-        "venue": "Sigmund Freud Museum"
-      },
-      "registration": {
-        "url": "https://www.freud-museum.at/en/en/detail/special-tour-documents-of-injustice-the-case-of-freud-2"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.freud-museum.at/en",
-        "name": "Sigmund Freud Museum Vienna",
-        "scraped_at": "2026-01-16T23:15:22.588795"
-      },
-      "id": "d4b22a1be4402c4a",
-      "completeness_score": 70,
-      "missing_fields": [
-        "event_type",
-        "description",
-        "organizer"
-      ],
-      "organizer": {},
-      "tags": [],
-      "updated_at": "2026-01-16T23:48:52.762462"
     },
     {
       "title": "Psychoanalytic Takes On Cinema",
