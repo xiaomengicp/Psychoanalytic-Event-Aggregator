@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-02-06T06:52:28.046765",
-    "count": 36
+    "last_updated": "2026-02-07T06:39:27.449130",
+    "count": 34
   },
   "events": [
     {
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.044721"
+      "updated_at": "2026-02-07T06:39:27.447332"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -95,47 +95,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.044769"
-    },
-    {
-      "title": "Psychoanalytic Takes On Cinema",
-      "description": null,
-      "start_date": "2026-01-30T00:00:00",
-      "format": "online",
-      "event_type": "workshop",
-      "location": {},
-      "registration": {
-        "fee": "$275"
-      },
-      "source": {
-        "type": "newsletter",
-        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
-        "name": "Psychoanalytic Newsletter (Example)",
-        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-17T00:10:21.616076"
-      },
-      "organizer": {},
-      "tags": [],
-      "updated_at": "2026-01-17T00:10:24.242170"
-    },
-    {
-      "title": "Friday, January 30, 20264:00 pm – 5:30 pm (1.5 CME/CE)Presentation and Discussion via Zoom",
-      "description": "Friday, January 30, 20264:00 pm – 5:30 pm (1.5 CME/CE)Presentation and Discussion via Zoom",
-      "start_date": "2026-01-30T00:00:00",
-      "format": "online",
-      "event_type": "lecture",
-      "location": {},
-      "registration": {},
-      "source": {
-        "type": "newsletter",
-        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
-        "name": "Psychoanalytic Newsletter (Example)",
-        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-17T00:10:21.616934"
-      },
-      "organizer": {},
-      "tags": [],
-      "updated_at": "2026-01-17T00:10:24.243001"
+      "updated_at": "2026-02-07T06:39:27.447379"
     },
     {
       "title": "Psychoanalysis, Creativity and the Arts Seminar",
@@ -376,7 +336,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.036111"
+      "updated_at": "2026-02-07T06:39:27.439264"
     },
     {
       "title": "The Wolf Shattered: Masculine Sexual Predatory Aggression Reconsidered – Dhwani Shah",
@@ -406,7 +366,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.036388"
+      "updated_at": "2026-02-07T06:39:27.439526"
     },
     {
       "title": "Human Spirit – Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism – Orly Shoshani, Ph.D. and Karina Goldberg, Ph.D. | Session Two",
@@ -436,7 +396,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.036766"
+      "updated_at": "2026-02-07T06:39:27.439887"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session One",
@@ -466,7 +426,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.037080"
+      "updated_at": "2026-02-07T06:39:27.440183"
     },
     {
       "title": "A complexity clinician talks about freedom Toward an ethics of relational accountability – Max Sucharov",
@@ -495,7 +455,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.037416"
+      "updated_at": "2026-02-07T06:39:27.440505"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Two",
@@ -525,7 +485,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.037758"
+      "updated_at": "2026-02-07T06:39:27.440830"
     },
     {
       "title": "Revising the standard, revisioning Freud: (De)institutionalizing the Revised Standard Edition – John Dall’Aglio, Daniel José Gaztambide, Daniela Flores Mosri, Edward Distel",
@@ -555,7 +515,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.038239"
+      "updated_at": "2026-02-07T06:39:27.441275"
     },
     {
       "title": "Human Spirit – Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism – Osnat Schwartz-Stav, Ph.D. and Eran Rudolphson, MA. | Session Three",
@@ -585,7 +545,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.038732"
+      "updated_at": "2026-02-07T06:39:27.441755"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Three",
@@ -615,7 +575,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.039140"
+      "updated_at": "2026-02-07T06:39:27.442141"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Four",
@@ -645,7 +605,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.039589"
+      "updated_at": "2026-02-07T06:39:27.442549"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Five",
@@ -675,7 +635,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.040025"
+      "updated_at": "2026-02-07T06:39:27.442959"
     },
     {
       "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
@@ -705,7 +665,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.040473"
+      "updated_at": "2026-02-07T06:39:27.443374"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
@@ -735,7 +695,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.040910"
+      "updated_at": "2026-02-07T06:39:27.443793"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -765,7 +725,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.041439"
+      "updated_at": "2026-02-07T06:39:27.444283"
     },
     {
       "title": "What sort of language is the unconscious structured like? A Lacanian neuropsychoanalytic perspective – John Dall’Aglio",
@@ -795,7 +755,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.041961"
+      "updated_at": "2026-02-07T06:39:27.444792"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -825,7 +785,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.042454"
+      "updated_at": "2026-02-07T06:39:27.445236"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -855,7 +815,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.043638"
+      "updated_at": "2026-02-07T06:39:27.446292"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -885,7 +845,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.044224"
+      "updated_at": "2026-02-07T06:39:27.446852"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -915,7 +875,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.044684"
+      "updated_at": "2026-02-07T06:39:27.447296"
     },
     {
       "title": "Notes from the Erotic Field: Potholes, Confessions, Discoveries – Sarah Schoen, Ph.D.",
@@ -945,7 +905,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-06T06:52:28.043092"
+      "updated_at": "2026-02-07T06:39:27.445789"
     }
   ]
 }
