@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-02-15T06:50:04.538786",
-    "count": 33
+    "last_updated": "2026-02-16T07:01:17.178126",
+    "count": 32
   },
   "events": [
     {
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.538665"
+      "updated_at": "2026-02-16T07:01:17.176600"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -95,7 +95,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.538712"
+      "updated_at": "2026-02-16T07:01:17.176645"
     },
     {
       "title": "Psychoanalysis, Creativity and the Arts Seminar",
@@ -279,36 +279,6 @@
       }
     },
     {
-      "title": "Psychoanalysis and Translation – Steven Groarke",
-      "description": "February 7 @ 9:00 am",
-      "start_date": "2026-02-07T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-steven-groarke/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.372558"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "e53c45e59e303f3b",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-02-07T06:39:27.439264"
-    },
-    {
       "title": "The Wolf Shattered: Masculine Sexual Predatory Aggression Reconsidered – Dhwani Shah",
       "description": "February 12 @ 7:00 pm",
       "start_date": "2026-02-12T19:00:00",
@@ -396,7 +366,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.532017"
+      "updated_at": "2026-02-16T07:01:17.170375"
     },
     {
       "title": "A complexity clinician talks about freedom Toward an ethics of relational accountability – Max Sucharov",
@@ -425,7 +395,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.532309"
+      "updated_at": "2026-02-16T07:01:17.170653"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Two",
@@ -455,7 +425,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.532600"
+      "updated_at": "2026-02-16T07:01:17.170928"
     },
     {
       "title": "Revising the standard, revisioning Freud: (De)institutionalizing the Revised Standard Edition – John Dall’Aglio, Daniel José Gaztambide, Daniela Flores Mosri, Edward Distel",
@@ -485,7 +455,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.533004"
+      "updated_at": "2026-02-16T07:01:17.171306"
     },
     {
       "title": "Human Spirit – Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism – Osnat Schwartz-Stav, Ph.D. and Eran Rudolphson, MA. | Session Three",
@@ -515,7 +485,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.533441"
+      "updated_at": "2026-02-16T07:01:17.171702"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Three",
@@ -545,7 +515,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.533791"
+      "updated_at": "2026-02-16T07:01:17.172035"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Four",
@@ -575,7 +545,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.534190"
+      "updated_at": "2026-02-16T07:01:17.172382"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Five",
@@ -605,7 +575,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.534584"
+      "updated_at": "2026-02-16T07:01:17.172728"
     },
     {
       "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
@@ -635,7 +605,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.534965"
+      "updated_at": "2026-02-16T07:01:17.173078"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
@@ -665,7 +635,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.535355"
+      "updated_at": "2026-02-16T07:01:17.173449"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -695,7 +665,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.535814"
+      "updated_at": "2026-02-16T07:01:17.173911"
     },
     {
       "title": "What sort of language is the unconscious structured like? A Lacanian neuropsychoanalytic perspective – John Dall’Aglio",
@@ -725,7 +695,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.536286"
+      "updated_at": "2026-02-16T07:01:17.174353"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -755,7 +725,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.536701"
+      "updated_at": "2026-02-16T07:01:17.174739"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -785,7 +755,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.537684"
+      "updated_at": "2026-02-16T07:01:17.175671"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -815,7 +785,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.538211"
+      "updated_at": "2026-02-16T07:01:17.176161"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -845,7 +815,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.538629"
+      "updated_at": "2026-02-16T07:01:17.176565"
     },
     {
       "title": "Notes from the Erotic Field: Potholes, Confessions, Discoveries – Sarah Schoen, Ph.D.",
@@ -875,7 +845,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-15T06:50:04.537218"
+      "updated_at": "2026-02-16T07:01:17.175220"
     }
   ]
 }
