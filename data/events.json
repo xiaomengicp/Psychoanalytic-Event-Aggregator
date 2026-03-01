@@ -1,40 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-02-28T06:35:48.527385",
-    "count": 32
+    "last_updated": "2026-03-01T06:43:00.807964",
+    "count": 31
   },
   "events": [
-    {
-      "title": "BPC Trainee Day: working together for safe psychoanalytic therapy",
-      "description": null,
-      "start_date": "2026-02-21T00:00:00",
-      "format": "online",
-      "event_type": "workshop",
-      "location": {
-        "country": "United Kingdom"
-      },
-      "registration": {
-        "url": "https://www.bpc.org.uk/event/bpc-trainee-day-working-together-for-safe-psychoanalytic-therapy/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.bpc.org.uk/events/",
-        "name": "British Psychoanalytic Council",
-        "scraped_at": "2026-01-16T23:14:08.131606"
-      },
-      "organizer": {
-        "name": "British Psychoanalytic Council",
-        "url": "https://www.bpc.org.uk"
-      },
-      "id": "94b303de7e296c72",
-      "completeness_score": 80,
-      "missing_fields": [
-        "description",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-01-16T23:48:52.751971"
-    },
     {
       "title": "Psychoanalytic self psychology in the treatment of anorexia and bulimia – Professor Eytan Bachar",
       "description": "February 6, 2027 @ 9:00 am",
@@ -64,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.527257"
+      "updated_at": "2026-03-01T06:43:00.805016"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -95,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.527302"
+      "updated_at": "2026-03-01T06:43:00.805065"
     },
     {
       "title": "Psychoanalysis, Creativity and the Arts Seminar",
@@ -306,7 +275,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.521225"
+      "updated_at": "2026-03-01T06:43:00.798548"
     },
     {
       "title": "A complexity clinician talks about freedom Toward an ethics of relational accountability – Max Sucharov",
@@ -365,7 +334,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.521882"
+      "updated_at": "2026-03-01T06:43:00.799271"
     },
     {
       "title": "Revising the standard, revisioning Freud: (De)institutionalizing the Revised Standard Edition – John Dall’Aglio, Daniel José Gaztambide, Daniela Flores Mosri, Edward Distel",
@@ -395,7 +364,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.522598"
+      "updated_at": "2026-03-01T06:43:00.800064"
     },
     {
       "title": "Human Spirit – Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism – Osnat Schwartz-Stav, Ph.D. and Eran Rudolphson, MA. | Session Three",
@@ -425,7 +394,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.522951"
+      "updated_at": "2026-03-01T06:43:00.800431"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Three",
@@ -455,7 +424,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.523235"
+      "updated_at": "2026-03-01T06:43:00.800733"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Four",
@@ -485,7 +454,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.523526"
+      "updated_at": "2026-03-01T06:43:00.801056"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Five",
@@ -515,7 +484,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.523839"
+      "updated_at": "2026-03-01T06:43:00.801381"
     },
     {
       "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
@@ -545,7 +514,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.524147"
+      "updated_at": "2026-03-01T06:43:00.801710"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
@@ -575,7 +544,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.524466"
+      "updated_at": "2026-03-01T06:43:00.802051"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -605,7 +574,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.524856"
+      "updated_at": "2026-03-01T06:43:00.802453"
     },
     {
       "title": "What sort of language is the unconscious structured like? A Lacanian neuropsychoanalytic perspective – John Dall’Aglio",
@@ -635,7 +604,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.525260"
+      "updated_at": "2026-03-01T06:43:00.802861"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -665,7 +634,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.525605"
+      "updated_at": "2026-03-01T06:43:00.803240"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -695,7 +664,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.526432"
+      "updated_at": "2026-03-01T06:43:00.804124"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -725,7 +694,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.526870"
+      "updated_at": "2026-03-01T06:43:00.804589"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -755,7 +724,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.527224"
+      "updated_at": "2026-03-01T06:43:00.804969"
     },
     {
       "title": "Notes from the Erotic Field: Potholes, Confessions, Discoveries – Sarah Schoen, Ph.D.",
@@ -785,7 +754,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.526039"
+      "updated_at": "2026-03-01T06:43:00.803696"
     },
     {
       "title": "Israel Gaza conflict: A Jewish clinician explodes – Max Sucharov",
@@ -815,7 +784,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-02-28T06:35:48.521639"
+      "updated_at": "2026-03-01T06:43:00.799016"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -843,7 +812,9 @@
       "missing_fields": [
         "event_type",
         "location"
-      ]
+      ],
+      "tags": [],
+      "updated_at": "2026-03-01T06:43:00.799715"
     }
   ]
 }
