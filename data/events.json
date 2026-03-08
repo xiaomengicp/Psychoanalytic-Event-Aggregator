@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-07T06:37:34.388069",
-    "count": 33
+    "last_updated": "2026-03-08T06:40:09.790695",
+    "count": 30
   },
   "events": [
     {
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.387514"
+      "updated_at": "2026-03-08T06:40:09.766218"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.387990"
+      "updated_at": "2026-03-08T06:40:09.766714"
     },
     {
       "title": "Psychoanalysis, Creativity and the Arts Seminar",
@@ -124,44 +124,6 @@
       "updated_at": "2026-01-17T00:10:24.249129"
     },
     {
-      "title": "Annual Colloquium",
-      "description": null,
-      "start_date": "2026-02-28T00:00:00",
-      "format": "in-person",
-      "event_type": "seminar",
-      "location": {},
-      "registration": {},
-      "source": {
-        "type": "newsletter",
-        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
-        "name": "Psychoanalytic Newsletter (Example)",
-        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-17T00:10:21.620790"
-      },
-      "organizer": {},
-      "tags": [],
-      "updated_at": "2026-01-17T00:10:24.252359"
-    },
-    {
-      "title": "Saturday, February 28, 20269:00am–1:00pm",
-      "description": null,
-      "start_date": "2026-02-28T00:00:00",
-      "format": "in-person",
-      "event_type": "other",
-      "location": {},
-      "registration": {},
-      "source": {
-        "type": "newsletter",
-        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
-        "name": "Psychoanalytic Newsletter (Example)",
-        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-17T00:10:21.621509"
-      },
-      "organizer": {},
-      "tags": [],
-      "updated_at": "2026-01-17T00:10:24.238431"
-    },
-    {
       "title": "2026 Graduation and Awards Ceremony",
       "description": null,
       "start_date": "2026-06-06T00:00:00",
@@ -198,22 +160,6 @@
       "organizer": {},
       "tags": [],
       "updated_at": "2026-01-17T00:10:24.254928"
-    },
-    {
-      "title": "Saturday, February 28, 20269:00am–12:30pm",
-      "description": null,
-      "start_date": "2026-02-28T00:00:00",
-      "format": "in-person",
-      "event_type": "other",
-      "location": {},
-      "registration": {},
-      "source": {
-        "type": "newsletter",
-        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
-        "name": "Psychoanalytic Newsletter (Example)",
-        "email_subject": "WBCP Upcoming Program and Event Updates (as of 12/18/25)",
-        "scraped_at": "2026-01-17T00:10:24.185986"
-      }
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session One",
@@ -302,7 +248,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.381607"
+      "updated_at": "2026-03-08T06:40:09.759897"
     },
     {
       "title": "Revising the standard, revisioning Freud: (De)institutionalizing the Revised Standard Edition – John Dall’Aglio, Daniel José Gaztambide, Daniela Flores Mosri, Edward Distel",
@@ -332,7 +278,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.381886"
+      "updated_at": "2026-03-08T06:40:09.760225"
     },
     {
       "title": "Human Spirit – Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism – Osnat Schwartz-Stav, Ph.D. and Eran Rudolphson, MA. | Session Three",
@@ -362,7 +308,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.382199"
+      "updated_at": "2026-03-08T06:40:09.760549"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Three",
@@ -392,7 +338,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.382451"
+      "updated_at": "2026-03-08T06:40:09.760817"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Four",
@@ -422,7 +368,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.382714"
+      "updated_at": "2026-03-08T06:40:09.761124"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Five",
@@ -452,7 +398,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.382991"
+      "updated_at": "2026-03-08T06:40:09.761425"
     },
     {
       "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
@@ -482,7 +428,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.383826"
+      "updated_at": "2026-03-08T06:40:09.762336"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
@@ -512,7 +458,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.384127"
+      "updated_at": "2026-03-08T06:40:09.762644"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -542,7 +488,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.384484"
+      "updated_at": "2026-03-08T06:40:09.763026"
     },
     {
       "title": "What sort of language is the unconscious structured like? A Lacanian neuropsychoanalytic perspective – John Dall’Aglio",
@@ -572,7 +518,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.384842"
+      "updated_at": "2026-03-08T06:40:09.763404"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -602,7 +548,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.385176"
+      "updated_at": "2026-03-08T06:40:09.763745"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -632,7 +578,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.385949"
+      "updated_at": "2026-03-08T06:40:09.764571"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -662,7 +608,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.386369"
+      "updated_at": "2026-03-08T06:40:09.765011"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -722,7 +668,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.385583"
+      "updated_at": "2026-03-08T06:40:09.764185"
     },
     {
       "title": "Israel Gaza conflict: A Jewish clinician explodes – Max Sucharov",
@@ -812,7 +758,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.386941"
+      "updated_at": "2026-03-08T06:40:09.765614"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -842,7 +788,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.387491"
+      "updated_at": "2026-03-08T06:40:09.766194"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -872,7 +818,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-07T06:37:34.387955"
+      "updated_at": "2026-03-08T06:40:09.766677"
     },
     {
       "title": "When Sexual Symptoms Speak: Listening to the Unconscious Life of Sexuality – Juliane Maxwald, MA, LP, CST",
@@ -900,7 +846,9 @@
       "missing_fields": [
         "event_type",
         "location"
-      ]
+      ],
+      "tags": [],
+      "updated_at": "2026-03-08T06:40:09.762028"
     }
   ]
 }
