@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-15T06:54:30.747595",
-    "count": 30
+    "last_updated": "2026-03-16T07:13:57.685776",
+    "count": 28
   },
   "events": [
     {
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.747055"
+      "updated_at": "2026-03-16T07:13:57.683585"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.747511"
+      "updated_at": "2026-03-16T07:13:57.684020"
     },
     {
       "title": "Psychoanalysis, Creativity and the Arts Seminar",
@@ -160,35 +160,6 @@
       "organizer": {},
       "tags": [],
       "updated_at": "2026-01-17T00:10:24.254928"
-    },
-    {
-      "title": "A complexity clinician talks about freedom Toward an ethics of relational accountability – Max Sucharov",
-      "description": "March 7 @ 9:00 am",
-      "start_date": "2026-03-07T09:00:00",
-      "format": "online",
-      "event_type": "lecture",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-max-sucharov/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.380209"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "1fbbb01f7f6e94cc",
-      "completeness_score": 90,
-      "missing_fields": [
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-02-17T06:56:57.038480"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Two",
@@ -308,7 +279,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.742274"
+      "updated_at": "2026-03-16T07:13:57.678932"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Four",
@@ -338,7 +309,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.742499"
+      "updated_at": "2026-03-16T07:13:57.679171"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Five",
@@ -368,7 +339,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.742736"
+      "updated_at": "2026-03-16T07:13:57.679412"
     },
     {
       "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
@@ -398,7 +369,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.743505"
+      "updated_at": "2026-03-16T07:13:57.680176"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
@@ -428,7 +399,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.743754"
+      "updated_at": "2026-03-16T07:13:57.680417"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -488,7 +459,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.744625"
+      "updated_at": "2026-03-16T07:13:57.681259"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -518,7 +489,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.744912"
+      "updated_at": "2026-03-16T07:13:57.681539"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -548,7 +519,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.745624"
+      "updated_at": "2026-03-16T07:13:57.682223"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -578,7 +549,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.745989"
+      "updated_at": "2026-03-16T07:13:57.682574"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -638,37 +609,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.745295"
-    },
-    {
-      "title": "Israel Gaza conflict: A Jewish clinician explodes – Max Sucharov",
-      "description": "March 7 @ 9:00 am",
-      "start_date": "2026-03-07T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-max-sucharov/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-02-18T06:58:41.216463"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "e693471a3cc56c82",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-03-07T06:37:34.381393"
+      "updated_at": "2026-03-16T07:13:57.681906"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -728,7 +669,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.746529"
+      "updated_at": "2026-03-16T07:13:57.683084"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -758,7 +699,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.747031"
+      "updated_at": "2026-03-16T07:13:57.683562"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -788,7 +729,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.747474"
+      "updated_at": "2026-03-16T07:13:57.683985"
     },
     {
       "title": "When Sexual Symptoms Speak: Listening to the Unconscious Life of Sexuality – Juliane Maxwald, MA, LP, CST",
@@ -818,7 +759,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.743260"
+      "updated_at": "2026-03-16T07:13:57.679932"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -848,7 +789,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-15T06:54:30.744302"
+      "updated_at": "2026-03-16T07:13:57.680954"
     }
   ]
 }
