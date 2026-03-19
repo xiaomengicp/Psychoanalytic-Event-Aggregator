@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-18T07:00:01.533653",
-    "count": 28
+    "last_updated": "2026-03-19T06:55:59.550368",
+    "count": 27
   },
   "events": [
     {
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.533178"
+      "updated_at": "2026-03-19T06:55:59.548475"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.533575"
+      "updated_at": "2026-03-19T06:55:59.548864"
     },
     {
       "title": "Psychoanalysis, Creativity and the Arts Seminar",
@@ -160,36 +160,6 @@
       "organizer": {},
       "tags": [],
       "updated_at": "2026-01-17T00:10:24.254928"
-    },
-    {
-      "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Two",
-      "description": "March 10 @ 6:00 pm",
-      "start_date": "2026-03-10T18:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/narrative-listening-and-the-semiotics-of-possibility-session-two/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.382142"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "82320444f9e8093b",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-03-10T06:45:22.382843"
     },
     {
       "title": "Revising the standard, revisioning Freud: (De)institutionalizing the Revised Standard Edition – John Dall’Aglio, Daniel José Gaztambide, Daniela Flores Mosri, Edward Distel",
@@ -309,7 +279,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.529098"
+      "updated_at": "2026-03-19T06:55:59.544425"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Five",
@@ -339,7 +309,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.529322"
+      "updated_at": "2026-03-19T06:55:59.544653"
     },
     {
       "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
@@ -369,7 +339,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.530011"
+      "updated_at": "2026-03-19T06:55:59.545341"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
@@ -399,7 +369,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.530239"
+      "updated_at": "2026-03-19T06:55:59.545563"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -459,7 +429,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.531011"
+      "updated_at": "2026-03-19T06:55:59.546330"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -489,7 +459,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.531270"
+      "updated_at": "2026-03-19T06:55:59.546584"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -519,7 +489,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.531917"
+      "updated_at": "2026-03-19T06:55:59.547228"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -549,7 +519,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.532249"
+      "updated_at": "2026-03-19T06:55:59.547556"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -609,7 +579,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.531606"
+      "updated_at": "2026-03-19T06:55:59.546914"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -669,7 +639,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.532704"
+      "updated_at": "2026-03-19T06:55:59.548018"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -699,7 +669,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.533155"
+      "updated_at": "2026-03-19T06:55:59.548453"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -729,7 +699,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.533540"
+      "updated_at": "2026-03-19T06:55:59.548830"
     },
     {
       "title": "When Sexual Symptoms Speak: Listening to the Unconscious Life of Sexuality – Juliane Maxwald, MA, LP, CST",
@@ -759,7 +729,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.529779"
+      "updated_at": "2026-03-19T06:55:59.545122"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -789,7 +759,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-18T07:00:01.530718"
+      "updated_at": "2026-03-19T06:55:59.546051"
     }
   ]
 }
