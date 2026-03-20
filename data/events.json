@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-19T06:55:59.550368",
-    "count": 27
+    "last_updated": "2026-03-20T06:52:59.086291",
+    "count": 26
   },
   "events": [
     {
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.548475"
+      "updated_at": "2026-03-20T06:52:59.084172"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.548864"
+      "updated_at": "2026-03-20T06:52:59.084555"
     },
     {
       "title": "Psychoanalysis, Creativity and the Arts Seminar",
@@ -103,25 +103,6 @@
       "organizer": {},
       "tags": [],
       "updated_at": "2026-01-17T00:10:24.244733"
-    },
-    {
-      "title": "Registration Deadline:March 11, 2026 by 4:30 pm ET",
-      "description": null,
-      "start_date": "2026-03-11T16:30:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {},
-      "source": {
-        "type": "newsletter",
-        "url": "mailto:WBCP <wbcp@memberclicks-mail.net>",
-        "name": "Psychoanalytic Newsletter (Example)",
-        "email_subject": "WBCP Upcoming Program and Event Updates (as of 1/15/26)",
-        "scraped_at": "2026-01-17T00:10:21.620643"
-      },
-      "organizer": {},
-      "tags": [],
-      "updated_at": "2026-01-17T00:10:24.249129"
     },
     {
       "title": "2026 Graduation and Awards Ceremony",
@@ -279,7 +260,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.544425"
+      "updated_at": "2026-03-20T06:52:59.080226"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Five",
@@ -309,7 +290,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.544653"
+      "updated_at": "2026-03-20T06:52:59.080456"
     },
     {
       "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
@@ -339,7 +320,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.545341"
+      "updated_at": "2026-03-20T06:52:59.081131"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
@@ -369,7 +350,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.545563"
+      "updated_at": "2026-03-20T06:52:59.081338"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -429,7 +410,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.546330"
+      "updated_at": "2026-03-20T06:52:59.082092"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -459,7 +440,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.546584"
+      "updated_at": "2026-03-20T06:52:59.082340"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -489,7 +470,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.547228"
+      "updated_at": "2026-03-20T06:52:59.082954"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -519,7 +500,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.547556"
+      "updated_at": "2026-03-20T06:52:59.083271"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -579,7 +560,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.546914"
+      "updated_at": "2026-03-20T06:52:59.082660"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -639,7 +620,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.548018"
+      "updated_at": "2026-03-20T06:52:59.083709"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -669,7 +650,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.548453"
+      "updated_at": "2026-03-20T06:52:59.084147"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -699,7 +680,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.548830"
+      "updated_at": "2026-03-20T06:52:59.084519"
     },
     {
       "title": "When Sexual Symptoms Speak: Listening to the Unconscious Life of Sexuality – Juliane Maxwald, MA, LP, CST",
@@ -729,7 +710,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.545122"
+      "updated_at": "2026-03-20T06:52:59.080924"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -759,7 +740,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-19T06:55:59.546051"
+      "updated_at": "2026-03-20T06:52:59.081802"
     }
   ]
 }
