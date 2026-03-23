@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-22T06:48:24.818745",
-    "count": 23
+    "last_updated": "2026-03-23T07:07:52.543902",
+    "count": 22
   },
   "events": [
     {
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.816909"
+      "updated_at": "2026-03-23T07:07:52.542052"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.817277"
+      "updated_at": "2026-03-23T07:07:52.542394"
     },
     {
       "title": "2026 Graduation and Awards Ceremony",
@@ -103,36 +103,6 @@
       "organizer": {},
       "tags": [],
       "updated_at": "2026-01-17T00:10:24.254928"
-    },
-    {
-      "title": "Revising the standard, revisioning Freud: (De)institutionalizing the Revised Standard Edition – John Dall’Aglio, Daniel José Gaztambide, Daniela Flores Mosri, Edward Distel",
-      "description": "March 14 @ 9:00 am",
-      "start_date": "2026-03-14T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/revising-the-standard-revisioning-freud-deinstitutionalizing-the-revised-standard-edition-john-dallaglio-daniel-jose-gaztambide-daniela-flores-mosri-edward-distel/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.384074"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "56661a15363a3da7",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-03-14T06:42:57.517819"
     },
     {
       "title": "Human Spirit – Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism – Osnat Schwartz-Stav, Ph.D. and Eran Rudolphson, MA. | Session Three",
@@ -222,7 +192,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.813141"
+      "updated_at": "2026-03-23T07:07:52.538619"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Five",
@@ -252,7 +222,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.813346"
+      "updated_at": "2026-03-23T07:07:52.538827"
     },
     {
       "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
@@ -282,7 +252,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.813990"
+      "updated_at": "2026-03-23T07:07:52.539396"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
@@ -312,7 +282,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.814187"
+      "updated_at": "2026-03-23T07:07:52.539574"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -372,7 +342,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.814902"
+      "updated_at": "2026-03-23T07:07:52.540230"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -402,7 +372,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.815136"
+      "updated_at": "2026-03-23T07:07:52.540442"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -432,7 +402,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.815745"
+      "updated_at": "2026-03-23T07:07:52.540988"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -462,7 +432,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.816048"
+      "updated_at": "2026-03-23T07:07:52.541266"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -522,7 +492,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.815457"
+      "updated_at": "2026-03-23T07:07:52.540730"
     },
     {
       "title": "Book briefing: “The Part-Whole Relation and The Therapeutic Third: Otto Rank, David Bohm and Contemporary Psychoanalysis” – Sara Ekenstierna, PhD, LPsy",
@@ -552,7 +522,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.816483"
+      "updated_at": "2026-03-23T07:07:52.541650"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -582,7 +552,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.816887"
+      "updated_at": "2026-03-23T07:07:52.542029"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -612,7 +582,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.817243"
+      "updated_at": "2026-03-23T07:07:52.542359"
     },
     {
       "title": "When Sexual Symptoms Speak: Listening to the Unconscious Life of Sexuality – Juliane Maxwald, MA, LP, CST",
@@ -642,7 +612,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.813792"
+      "updated_at": "2026-03-23T07:07:52.539227"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -672,7 +642,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-22T06:48:24.814647"
+      "updated_at": "2026-03-23T07:07:52.540003"
     }
   ]
 }
