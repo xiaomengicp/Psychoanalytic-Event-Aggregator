@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-23T07:07:52.543902",
-    "count": 22
+    "last_updated": "2026-03-24T07:01:55.325590",
+    "count": 21
   },
   "events": [
     {
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.542052"
+      "updated_at": "2026-03-24T07:01:55.323997"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.542394"
+      "updated_at": "2026-03-24T07:01:55.324318"
     },
     {
       "title": "2026 Graduation and Awards Ceremony",
@@ -103,36 +103,6 @@
       "organizer": {},
       "tags": [],
       "updated_at": "2026-01-17T00:10:24.254928"
-    },
-    {
-      "title": "Human Spirit – Selfobject Psychology Dharma-Based Breakthrough for Psychoanalysis, Preservation for Buddhism – Osnat Schwartz-Stav, Ph.D. and Eran Rudolphson, MA. | Session Three",
-      "description": "March 15 @ 9:00 am",
-      "start_date": "2026-03-15T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/human-spirit-selfobject-psychology-dharma-based-breakthrough-for-psychoanalysis-preservation-for-buddhism-session-three/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.385998"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "66f8a20478c80e69",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-03-15T06:54:30.742034"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Three",
@@ -192,7 +162,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.538619"
+      "updated_at": "2026-03-24T07:01:55.320946"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Five",
@@ -222,7 +192,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.538827"
+      "updated_at": "2026-03-24T07:01:55.321108"
     },
     {
       "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
@@ -252,7 +222,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.539396"
+      "updated_at": "2026-03-24T07:01:55.321615"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
@@ -282,7 +252,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.539574"
+      "updated_at": "2026-03-24T07:01:55.321762"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -342,7 +312,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.540230"
+      "updated_at": "2026-03-24T07:01:55.322387"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -372,7 +342,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.540442"
+      "updated_at": "2026-03-24T07:01:55.322574"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -402,7 +372,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.540988"
+      "updated_at": "2026-03-24T07:01:55.323066"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -432,7 +402,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.541266"
+      "updated_at": "2026-03-24T07:01:55.323312"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -492,7 +462,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.540730"
+      "updated_at": "2026-03-24T07:01:55.322830"
     },
     {
       "title": "Book briefing: “The Part-Whole Relation and The Therapeutic Third: Otto Rank, David Bohm and Contemporary Psychoanalysis” – Sara Ekenstierna, PhD, LPsy",
@@ -522,7 +492,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.541650"
+      "updated_at": "2026-03-24T07:01:55.323650"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -552,7 +522,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.542029"
+      "updated_at": "2026-03-24T07:01:55.323975"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -582,7 +552,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.542359"
+      "updated_at": "2026-03-24T07:01:55.324281"
     },
     {
       "title": "When Sexual Symptoms Speak: Listening to the Unconscious Life of Sexuality – Juliane Maxwald, MA, LP, CST",
@@ -612,7 +582,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.539227"
+      "updated_at": "2026-03-24T07:01:55.321472"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -642,7 +612,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-03-23T07:07:52.540003"
+      "updated_at": "2026-03-24T07:01:55.322180"
     }
   ]
 }
