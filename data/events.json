@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-04-01T07:17:41.495728",
-    "count": 21
+    "last_updated": "2026-04-02T07:10:06.841503",
+    "count": 20
   },
   "events": [
     {
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.495381"
+      "updated_at": "2026-04-02T07:10:06.839877"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.495666"
+      "updated_at": "2026-04-02T07:10:06.840183"
     },
     {
       "title": "2026 Graduation and Awards Ceremony",
@@ -103,36 +103,6 @@
       "organizer": {},
       "tags": [],
       "updated_at": "2026-01-17T00:10:24.254928"
-    },
-    {
-      "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Four",
-      "description": "March 24 @ 6:00 pm",
-      "start_date": "2026-03-24T18:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/narrative-listening-and-the-semiotics-of-possibility-session-four/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.389762"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "a498a8ec3d41e41f",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-03-24T07:01:55.320946"
     },
     {
       "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Five",
@@ -192,7 +162,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.492951"
+      "updated_at": "2026-04-02T07:10:06.837420"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
@@ -222,7 +192,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.493470"
+      "updated_at": "2026-04-02T07:10:06.837927"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -282,7 +252,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.493966"
+      "updated_at": "2026-04-02T07:10:06.838461"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -312,7 +282,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.494132"
+      "updated_at": "2026-04-02T07:10:06.838615"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -342,7 +312,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.494534"
+      "updated_at": "2026-04-02T07:10:06.839020"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -372,7 +342,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.494738"
+      "updated_at": "2026-04-02T07:10:06.839262"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -432,7 +402,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.494356"
+      "updated_at": "2026-04-02T07:10:06.838838"
     },
     {
       "title": "Book briefing: “The Part-Whole Relation and The Therapeutic Third: Otto Rank, David Bohm and Contemporary Psychoanalysis” – Sara Ekenstierna, PhD, LPsy",
@@ -462,7 +432,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.495041"
+      "updated_at": "2026-04-02T07:10:06.839565"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -492,7 +462,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.495357"
+      "updated_at": "2026-04-02T07:10:06.839855"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -522,7 +492,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.495631"
+      "updated_at": "2026-04-02T07:10:06.840147"
     },
     {
       "title": "When Sexual Symptoms Speak: Listening to the Unconscious Life of Sexuality – Juliane Maxwald, MA, LP, CST",
@@ -552,7 +522,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.492825"
+      "updated_at": "2026-04-02T07:10:06.837294"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -582,7 +552,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.493806"
+      "updated_at": "2026-04-02T07:10:06.838296"
     },
     {
       "title": "The Shadow Seduction of the Psyche; The Predators of Self-deception, Envy Sirens and Demon Lovers – Susan E. Schwartz, Ph.D.",
@@ -612,7 +582,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-01T07:17:41.493351"
+      "updated_at": "2026-04-02T07:10:06.837804"
     }
   ]
 }
