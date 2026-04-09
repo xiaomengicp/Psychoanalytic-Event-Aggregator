@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-04-08T07:15:09.000510",
-    "count": 20
+    "last_updated": "2026-04-09T07:19:07.114531",
+    "count": 19
   },
   "events": [
     {
@@ -103,36 +103,6 @@
       "organizer": {},
       "tags": [],
       "updated_at": "2026-01-17T00:10:24.254928"
-    },
-    {
-      "title": "Narrative, Listening and the Semiotics of Possibility – Gregory S. Rizzolo, PhD LCPC | Session Five",
-      "description": "March 31 @ 6:00 pm",
-      "start_date": "2026-03-31T18:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/narrative-listening-and-the-semiotics-of-possibility-session-five/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.391628"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "39a5420f57261392",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-03-31T07:10:46.190652"
     },
     {
       "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
