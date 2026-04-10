@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-04-09T07:19:07.114531",
-    "count": 19
+    "last_updated": "2026-04-10T07:24:38.649614",
+    "count": 20
   },
   "events": [
     {
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.630446"
+      "updated_at": "2026-04-10T07:24:38.648926"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.630719"
+      "updated_at": "2026-04-10T07:24:38.649206"
     },
     {
       "title": "2026 Graduation and Awards Ceremony",
@@ -132,7 +132,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.628090"
+      "updated_at": "2026-04-10T07:24:38.646436"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
@@ -162,7 +162,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.628581"
+      "updated_at": "2026-04-10T07:24:38.647101"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -222,7 +222,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.629085"
+      "updated_at": "2026-04-10T07:24:38.647672"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -252,7 +252,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.629230"
+      "updated_at": "2026-04-10T07:24:38.647801"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -282,7 +282,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.629622"
+      "updated_at": "2026-04-10T07:24:38.648171"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -312,7 +312,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.629821"
+      "updated_at": "2026-04-10T07:24:38.648351"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -372,7 +372,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.629445"
+      "updated_at": "2026-04-10T07:24:38.647998"
     },
     {
       "title": "Book briefing: “The Part-Whole Relation and The Therapeutic Third: Otto Rank, David Bohm and Contemporary Psychoanalysis” – Sara Ekenstierna, PhD, LPsy",
@@ -402,7 +402,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.630137"
+      "updated_at": "2026-04-10T07:24:38.648629"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -432,7 +432,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.630422"
+      "updated_at": "2026-04-10T07:24:38.648903"
     },
     {
       "title": "Sexuality and Narcissistic Transference to the Body – Juliane Maxwald",
@@ -462,7 +462,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.630684"
+      "updated_at": "2026-04-10T07:24:38.649169"
     },
     {
       "title": "When Sexual Symptoms Speak: Listening to the Unconscious Life of Sexuality – Juliane Maxwald, MA, LP, CST",
@@ -492,7 +492,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.627973"
+      "updated_at": "2026-04-10T07:24:38.646300"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -522,7 +522,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.628932"
+      "updated_at": "2026-04-10T07:24:38.647528"
     },
     {
       "title": "The Shadow Seduction of the Psyche; The Predators of Self-deception, Envy Sirens and Demon Lovers – Susan E. Schwartz, Ph.D.",
@@ -552,7 +552,35 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-07T07:13:08.628473"
+      "updated_at": "2026-04-10T07:24:38.646980"
+    },
+    {
+      "title": "The Kids Are Alright: Surveillance, Privacy, and Adolescent Development — A Winnicottian Perspective – Mike Langlois, LICSW",
+      "description": "May 1, 2027 @ 9:00 am",
+      "start_date": "2027-05-01T09:00:00",
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-mike-langlois/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-04-10T07:23:36.877371"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "c9787269eaab4e1a",
+      "completeness_score": 80,
+      "missing_fields": [
+        "event_type",
+        "location"
+      ]
     }
   ]
 }
