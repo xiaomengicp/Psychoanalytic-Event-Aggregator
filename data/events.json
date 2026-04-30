@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-04-29T08:12:50.648552",
-    "count": 24
+    "last_updated": "2026-04-30T08:17:44.440444",
+    "count": 23
   },
   "events": [
     {
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.647016"
+      "updated_at": "2026-04-30T08:17:44.437957"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.647568"
+      "updated_at": "2026-04-30T08:17:44.438534"
     },
     {
       "title": "2026 Graduation and Awards Ceremony",
@@ -162,7 +162,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.644656"
+      "updated_at": "2026-04-30T08:17:44.435570"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -222,7 +222,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.645083"
+      "updated_at": "2026-04-30T08:17:44.435995"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
@@ -252,7 +252,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.645199"
+      "updated_at": "2026-04-30T08:17:44.436116"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -282,7 +282,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.645895"
+      "updated_at": "2026-04-30T08:17:44.436817"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -312,7 +312,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.646427"
+      "updated_at": "2026-04-30T08:17:44.437356"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -372,7 +372,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.645733"
+      "updated_at": "2026-04-30T08:17:44.436676"
     },
     {
       "title": "Book briefing: “The Part-Whole Relation and The Therapeutic Third: Otto Rank, David Bohm and Contemporary Psychoanalysis” – Sara Ekenstierna, PhD, LPsy",
@@ -402,7 +402,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.646668"
+      "updated_at": "2026-04-30T08:17:44.437612"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -462,37 +462,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.647538"
-    },
-    {
-      "title": "When Sexual Symptoms Speak: Listening to the Unconscious Life of Sexuality – Juliane Maxwald, MA, LP, CST",
-      "description": "April 21 @ 6:00 pm",
-      "start_date": "2026-04-21T18:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/when-sexual-symptoms-speak-listening-to-the-unconscious-life-of-sexuality-session-one/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-03-07T06:36:32.162334"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "907e7ebec6c1bd19",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-04-20T08:03:05.018880"
+      "updated_at": "2026-04-30T08:17:44.438500"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
@@ -522,7 +492,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.644959"
+      "updated_at": "2026-04-30T08:17:44.435869"
     },
     {
       "title": "The Shadow Seduction of the Psyche; The Predators of Self-deception, Envy Sirens and Demon Lovers – Susan E. Schwartz, Ph.D.",
@@ -552,7 +522,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.644557"
+      "updated_at": "2026-04-30T08:17:44.435462"
     },
     {
       "title": "The Kids Are Alright: Surveillance, Privacy, and Adolescent Development — A Winnicottian Perspective – Mike Langlois, LICSW",
@@ -582,7 +552,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.647892"
+      "updated_at": "2026-04-30T08:17:44.438853"
     },
     {
       "title": "From synapse to sentience – Karl J. Friston, MBBS, MA, MRCPsych, MAE, FMedSci, FRBS, FRS",
@@ -612,7 +582,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.647335"
+      "updated_at": "2026-04-30T08:17:44.438284"
     },
     {
       "title": "Wishing You the Worst: Addressing Collegial Enactments and Disavowal in the Psychoanalytic Community – Mike Langlois, LICSW",
@@ -641,7 +611,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.645554"
+      "updated_at": "2026-04-30T08:17:44.436493"
     },
     {
       "title": "Immigration and Psychoanalysis: What Can I Do? – Susan McNamara, MD, LFAPA",
@@ -671,7 +641,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.646996"
+      "updated_at": "2026-04-30T08:17:44.437936"
     },
     {
       "title": "Diving Into Gender: The Intersection of Gender, Culture, and Psychoanalysis — Susan McNamara, MD, LFAPA",
@@ -701,7 +671,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-04-28T08:22:38.646264"
+      "updated_at": "2026-04-30T08:17:44.437190"
     }
   ]
 }
