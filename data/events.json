@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-05-04T08:26:56.932967",
-    "count": 23
+    "last_updated": "2026-05-05T08:07:47.868622",
+    "count": 22
   },
   "events": [
     {
@@ -103,36 +103,6 @@
       "organizer": {},
       "tags": [],
       "updated_at": "2026-01-17T00:10:24.254928"
-    },
-    {
-      "title": "Hunger Artists: Enigmatic Strivings in Disordered Eating – Heather Ferguson and Sarah Mendelsohn",
-      "description": "April 26 @ 9:00 am",
-      "start_date": "2026-04-26T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-heather-ferguson-and-sarah-mendelsohn/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.393512"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "f7de51b664f488f5",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-04-26T07:26:38.139930"
     },
     {
       "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
