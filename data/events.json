@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-05-19T09:38:46.932845",
-    "count": 27
+    "last_updated": "2026-05-20T09:27:28.014423",
+    "count": 26
   },
   "events": [
     {
@@ -463,36 +463,6 @@
       ],
       "tags": [],
       "updated_at": "2026-05-19T09:38:46.928239"
-    },
-    {
-      "title": "The Shadow Seduction of the Psyche; The Predators of Self-deception, Envy Sirens and Demon Lovers – Susan E. Schwartz, Ph.D.",
-      "description": "May 11 @ 6:00 pm",
-      "start_date": "2026-05-11T18:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/the-shadow-seduction-of-the-psyche-the-predators-of-self-deception-envy-sirens-and-demon-lovers-susan-e-schwartz-ph-d/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-03-31T07:09:09.327152"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "3ede56358c39b89e",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-05-11T09:35:41.518559"
     },
     {
       "title": "The Kids Are Alright: Surveillance, Privacy, and Adolescent Development — A Winnicottian Perspective – Mike Langlois, LICSW",
