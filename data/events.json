@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-05-24T08:26:39.549342",
-    "count": 26
+    "last_updated": "2026-05-25T10:00:27.485253",
+    "count": 25
   },
   "events": [
     {
@@ -103,36 +103,6 @@
       "organizer": {},
       "tags": [],
       "updated_at": "2026-01-17T00:10:24.254928"
-    },
-    {
-      "title": "A Winnicottian Approach to Field Theory: Creative Expansions – Dianne Elise, Ph.D.",
-      "description": "May 16 @ 9:00 am",
-      "start_date": "2026-05-16T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-dianne-elise-2/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.395385"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "e9485683e0b9f81c",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-05-14T08:34:39.662406"
     },
     {
       "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
