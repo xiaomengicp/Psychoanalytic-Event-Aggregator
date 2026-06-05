@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-06-04T09:53:10.732942",
-    "count": 27
+    "last_updated": "2026-06-05T09:42:09.246465",
+    "count": 26
   },
   "events": [
     {
@@ -582,36 +582,6 @@
       ],
       "tags": [],
       "updated_at": "2026-06-04T09:53:10.730258"
-    },
-    {
-      "title": "Human Aggression, War, and Genocide – Kevin Volkan, EdD, PhD, MPH",
-      "description": "May 27 @ 6:00 pm",
-      "start_date": "2026-05-27T18:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/human-aggression-war-and-genocide-kevin-volkan-edd-phd-mph/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-05-07T08:29:35.864410"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "421dda8f2a4ab9ba",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-05-26T09:49:49.043549"
     },
     {
       "title": "Towards a psychoanalysis that loves us back – Dr. Avgi Saketopoulou",
