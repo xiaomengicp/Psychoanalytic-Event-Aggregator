@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-06-19T10:22:09.175843",
-    "count": 26
+    "last_updated": "2026-06-20T08:51:48.602004",
+    "count": 25
   },
   "events": [
     {
@@ -365,36 +365,6 @@
       ],
       "tags": [],
       "updated_at": "2026-06-17T10:50:51.108768"
-    },
-    {
-      "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
-      "description": "June 11 @ 6:00 pm",
-      "start_date": "2026-06-11T18:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-gregory-s-rizzolo/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-03-11T06:49:45.686773"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "db7e0b172d241f2e",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-06-07T08:53:09.260693"
     },
     {
       "title": "The Kids Are Alright: Surveillance, Privacy, and Adolescent Development — A Winnicottian Perspective – Mike Langlois, LICSW",
