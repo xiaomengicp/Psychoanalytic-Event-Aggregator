@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-06-21T09:45:44.350501",
-    "count": 25
+    "last_updated": "2026-06-22T11:48:21.972474",
+    "count": 24
   },
   "events": [
     {
@@ -65,36 +65,6 @@
       ],
       "tags": [],
       "updated_at": "2026-06-17T10:50:51.108804"
-    },
-    {
-      "title": "The semiotics of possibility: What are we doing when we make an interpretation? – Gregory S. Rizzolo, PhD LCPC",
-      "description": "June 13 @ 9:00 am",
-      "start_date": "2026-06-13T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-gregory-s-rizzolo/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.397262"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "ef95cdc61ae78368",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-06-11T10:19:19.376646"
     },
     {
       "title": "What sort of language is the unconscious structured like? A Lacanian neuropsychoanalytic perspective – John Dall’Aglio",
