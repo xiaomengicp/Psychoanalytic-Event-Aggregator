@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-07-19T08:11:42.258184",
-    "count": 25
+    "last_updated": "2026-07-20T08:53:13.162131",
+    "count": 24
   },
   "events": [
     {
@@ -65,36 +65,6 @@
       ],
       "tags": [],
       "updated_at": "2026-07-18T07:44:39.449367"
-    },
-    {
-      "title": "What sort of language is the unconscious structured like? A Lacanian neuropsychoanalytic perspective – John Dall’Aglio",
-      "description": "July 11 @ 9:00 am",
-      "start_date": "2026-07-11T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-john-dallaglio/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.399158"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "827ed5aef20bb033",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-05-13T08:42:37.261593"
     },
     {
       "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
