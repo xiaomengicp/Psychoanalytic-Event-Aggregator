@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-07-28T08:29:10.037047",
-    "count": 24
+    "last_updated": "2026-07-29T08:35:40.312430",
+    "count": 23
   },
   "events": [
     {
@@ -514,36 +514,6 @@
       ],
       "tags": [],
       "updated_at": "2026-07-26T08:22:22.632060"
-    },
-    {
-      "title": "What sort of language is the unconscious structured like? A Lacanian neuropsychoanalytic perspective – John Dall’Aglio",
-      "description": "July 20 @ 6:00 pm",
-      "start_date": "2026-07-20T18:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-john-dallaglio/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-05-14T08:33:30.311221"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "6a4e8525343c2d5a",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-07-18T07:44:39.445844"
     },
     {
       "title": "Who Owns the Story? Ethical Reflections on Writing the Psychodynamic Case Study — Aner Govrin",
