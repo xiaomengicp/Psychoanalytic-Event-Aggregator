@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-08-09T06:53:25.196945",
-    "count": 23
+    "last_updated": "2026-08-10T07:26:07.244109",
+    "count": 22
   },
   "events": [
     {
@@ -633,36 +633,6 @@
       ],
       "tags": [],
       "updated_at": "2026-08-07T07:10:37.975350"
-    },
-    {
-      "title": "Does AI dream of electric sheep? — Ash Singh",
-      "description": "August 1 @ 9:00 am",
-      "start_date": "2026-08-01T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/does-ai-dream-of-electric-sheep-ash-singh/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-06-23T09:32:57.043937"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "27cffbd98e076f19",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-08-01T08:15:31.969307"
     },
     {
       "title": "It Takes Two to Know One—the Therapy Relationship and Unconscious Dialogues — Anthony Bass, Ph.D.",
