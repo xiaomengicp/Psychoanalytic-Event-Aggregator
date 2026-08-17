@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-08-16T06:34:10.020578",
-    "count": 22
+    "last_updated": "2026-08-17T06:48:20.073093",
+    "count": 21
   },
   "events": [
     {
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.019062"
+      "updated_at": "2026-08-17T06:48:20.071220"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,37 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.019576"
-    },
-    {
-      "title": "Beyond Human: The Dynamicisim of Being or Not Being Human – Sien Rivera",
-      "description": "August 8 @ 9:00 am",
-      "start_date": "2026-08-08T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-sien-rivera/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.401032"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "d8eac3f404cb8eeb",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-08-07T07:10:37.972998"
+      "updated_at": "2026-08-17T06:48:20.071554"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -124,7 +94,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.018343"
+      "updated_at": "2026-08-17T06:48:20.070728"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -154,7 +124,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.018689"
+      "updated_at": "2026-08-17T06:48:20.070968"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -214,7 +184,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.017638"
+      "updated_at": "2026-08-17T06:48:20.070249"
     },
     {
       "title": "Book briefing: “The Part-Whole Relation and The Therapeutic Third: Otto Rank, David Bohm and Contemporary Psychoanalysis” – Sara Ekenstierna, PhD, LPsy",
@@ -244,7 +214,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.018837"
+      "updated_at": "2026-08-17T06:48:20.071069"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -304,7 +274,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.019543"
+      "updated_at": "2026-08-17T06:48:20.071531"
     },
     {
       "title": "The Kids Are Alright: Surveillance, Privacy, and Adolescent Development — A Winnicottian Perspective – Mike Langlois, LICSW",
@@ -334,7 +304,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.019759"
+      "updated_at": "2026-08-17T06:48:20.071678"
     },
     {
       "title": "From synapse to sentience – Karl J. Friston, MBBS, MA, MRCPsych, MAE, FMedSci, FRBS, FRS",
@@ -393,7 +363,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.017522"
+      "updated_at": "2026-08-17T06:48:20.070173"
     },
     {
       "title": "Immigration and Psychoanalysis: What Can I Do? – Susan McNamara, MD, LFAPA",
@@ -423,7 +393,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.019041"
+      "updated_at": "2026-08-17T06:48:20.071204"
     },
     {
       "title": "Diving Into Gender: The Intersection of Gender, Culture, and Psychoanalysis — Susan McNamara, MD, LFAPA",
@@ -453,7 +423,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.018604"
+      "updated_at": "2026-08-17T06:48:20.070909"
     },
     {
       "title": "Towards a psychoanalysis that loves us back – Dr. Avgi Saketopoulou",
@@ -483,7 +453,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.019976"
+      "updated_at": "2026-08-17T06:48:20.071832"
     },
     {
       "title": "From Crisis to Model: Holding Context and Restoring Meaning — The Maana Journey – Najla Asmar",
@@ -513,7 +483,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.020234"
+      "updated_at": "2026-08-17T06:48:20.072008"
     },
     {
       "title": "Who Owns the Story? Ethical Reflections on Writing the Psychodynamic Case Study — Aner Govrin",
@@ -543,7 +513,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.020503"
+      "updated_at": "2026-08-17T06:48:20.072190"
     },
     {
       "title": "Why Love Matters: Psychoanalysis, AI-Intimacies, and Techno-Subjunctivity — Todd Essig, Ph.D.",
@@ -573,7 +543,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.017935"
+      "updated_at": "2026-08-17T06:48:20.070443"
     },
     {
       "title": "The semiotics of possibility: A presentation in honor of Edgar Levenson – Gregory S. Rizzolo, PhD LCPC",
@@ -602,7 +572,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.017271"
+      "updated_at": "2026-08-17T06:48:20.070004"
     },
     {
       "title": "From synapse to sentience – Karl J. Friston, MBBS, MA, MRCPsych, MAE, FMedSci, FRBS, FRS",
@@ -632,7 +602,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.019393"
+      "updated_at": "2026-08-17T06:48:20.071439"
     },
     {
       "title": "It Takes Two to Know One—the Therapy Relationship and Unconscious Dialogues — Anthony Bass, Ph.D.",
@@ -662,7 +632,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-08-16T06:34:10.018279"
+      "updated_at": "2026-08-17T06:48:20.070683"
     }
   ]
 }
