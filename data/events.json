@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-25T11:05:26.897628",
+    "last_updated": "2026-09-26T10:47:18.219108",
     "count": 21
   },
   "events": [
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.895546"
+      "updated_at": "2026-09-26T10:47:18.217050"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.896356"
+      "updated_at": "2026-09-26T10:47:18.217843"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -94,7 +94,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.894550"
+      "updated_at": "2026-09-26T10:47:18.216050"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -124,7 +124,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.894861"
+      "updated_at": "2026-09-26T10:47:18.216359"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -184,7 +184,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.895331"
+      "updated_at": "2026-09-26T10:47:18.216840"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -244,7 +244,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.895956"
+      "updated_at": "2026-09-26T10:47:18.217455"
     },
     {
       "title": "The Kids Are Alright: Surveillance, Privacy, and Adolescent Development — A Winnicottian Perspective – Mike Langlois, LICSW",
@@ -274,7 +274,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.896563"
+      "updated_at": "2026-09-26T10:47:18.218026"
     },
     {
       "title": "From synapse to sentience – Karl J. Friston, MBBS, MA, MRCPsych, MAE, FMedSci, FRBS, FRS",
@@ -334,7 +334,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.895522"
+      "updated_at": "2026-09-26T10:47:18.217027"
     },
     {
       "title": "Diving Into Gender: The Intersection of Gender, Culture, and Psychoanalysis — Susan McNamara, MD, LFAPA",
@@ -364,7 +364,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.894779"
+      "updated_at": "2026-09-26T10:47:18.216275"
     },
     {
       "title": "Towards a psychoanalysis that loves us back – Dr. Avgi Saketopoulou",
@@ -394,7 +394,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.896759"
+      "updated_at": "2026-09-26T10:47:18.218225"
     },
     {
       "title": "From Crisis to Model: Holding Context and Restoring Meaning — The Maana Journey – Najla Asmar",
@@ -424,7 +424,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.896991"
+      "updated_at": "2026-09-26T10:47:18.218456"
     },
     {
       "title": "Who Owns the Story? Ethical Reflections on Writing the Psychodynamic Case Study — Aner Govrin",
@@ -454,7 +454,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.897231"
+      "updated_at": "2026-09-26T10:47:18.218697"
     },
     {
       "title": "Why Love Matters: Psychoanalysis, AI-Intimacies, and Techno-Subjunctivity — Todd Essig, Ph.D.",
@@ -514,7 +514,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.895837"
+      "updated_at": "2026-09-26T10:47:18.217335"
     },
     {
       "title": "It Takes Two to Know One—the Therapy Relationship and Unconscious Dialogues — Anthony Bass, Ph.D.",
@@ -574,7 +574,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.897561"
+      "updated_at": "2026-09-26T10:47:18.219028"
     },
     {
       "title": "The Many Selves of Odysseus: Looking at the Odyssey Through a Contemporary Psychoanalytic Lens — David Shaddock PHD, MFT",
@@ -604,7 +604,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-09-25T11:05:26.896320"
+      "updated_at": "2026-09-26T10:47:18.217808"
     },
     {
       "title": "The Other Kind of Othering: A Response to Helplessness During Troubled Times — Michael Korson, LMFT, CGP",
@@ -632,7 +632,9 @@
       "missing_fields": [
         "event_type",
         "location"
-      ]
+      ],
+      "tags": [],
+      "updated_at": "2026-09-26T10:47:18.216717"
     }
   ]
 }
