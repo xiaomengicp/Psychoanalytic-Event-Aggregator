@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-05T13:32:31.933136",
-    "count": 19
+    "last_updated": "2026-10-06T12:43:37.027664",
+    "count": 20
   },
   "events": [
     {
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.932006"
+      "updated_at": "2026-10-06T12:43:37.025369"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,7 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.932445"
+      "updated_at": "2026-10-06T12:43:37.026145"
     },
     {
       "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
@@ -124,7 +124,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.931621"
+      "updated_at": "2026-10-06T12:43:37.024698"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -184,7 +184,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.931891"
+      "updated_at": "2026-10-06T12:43:37.025169"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -244,7 +244,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.932231"
+      "updated_at": "2026-10-06T12:43:37.025778"
     },
     {
       "title": "The Kids Are Alright: Surveillance, Privacy, and Adolescent Development — A Winnicottian Perspective – Mike Langlois, LICSW",
@@ -274,7 +274,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.932540"
+      "updated_at": "2026-10-06T12:43:37.026310"
     },
     {
       "title": "From synapse to sentience – Karl J. Friston, MBBS, MA, MRCPsych, MAE, FMedSci, FRBS, FRS",
@@ -334,7 +334,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.931993"
+      "updated_at": "2026-10-06T12:43:37.025347"
     },
     {
       "title": "Diving Into Gender: The Intersection of Gender, Culture, and Psychoanalysis — Susan McNamara, MD, LFAPA",
@@ -364,7 +364,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.931564"
+      "updated_at": "2026-10-06T12:43:37.024590"
     },
     {
       "title": "Towards a psychoanalysis that loves us back – Dr. Avgi Saketopoulou",
@@ -394,7 +394,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.932650"
+      "updated_at": "2026-10-06T12:43:37.026835"
     },
     {
       "title": "From Crisis to Model: Holding Context and Restoring Meaning — The Maana Journey – Najla Asmar",
@@ -424,7 +424,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.932784"
+      "updated_at": "2026-10-06T12:43:37.027068"
     },
     {
       "title": "Who Owns the Story? Ethical Reflections on Writing the Psychodynamic Case Study — Aner Govrin",
@@ -454,7 +454,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.932926"
+      "updated_at": "2026-10-06T12:43:37.027308"
     },
     {
       "title": "From synapse to sentience – Karl J. Friston, MBBS, MA, MRCPsych, MAE, FMedSci, FRBS, FRS",
@@ -484,7 +484,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.932162"
+      "updated_at": "2026-10-06T12:43:37.025644"
     },
     {
       "title": "Holding and Containing: “The Metaphor of the Baby” In Winnicott, Bion and Klein — Stephen Seligman",
@@ -514,7 +514,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.933093"
+      "updated_at": "2026-10-06T12:43:37.027590"
     },
     {
       "title": "The Many Selves of Odysseus: Looking at the Odyssey Through a Contemporary Psychoanalytic Lens — David Shaddock PHD, MFT",
@@ -544,7 +544,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.932425"
+      "updated_at": "2026-10-06T12:43:37.026108"
     },
     {
       "title": "The Other Kind of Othering: A Response to Helplessness During Troubled Times — Michael Korson, LMFT, CGP",
@@ -574,7 +574,35 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-05T13:32:31.931817"
+      "updated_at": "2026-10-06T12:43:37.025039"
+    },
+    {
+      "title": "Specificity Theory & Couples Therapy: A Syncretic Approach — George Bermúdez, Ph.D., Psy.D.",
+      "description": "May 3, 2027 @ 6:00 pm",
+      "start_date": "2027-05-03T18:00:00",
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/specificity-theory-couples-therapy-a-syncretic-approach-george-bermudez-ph-d-psy-d/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-10-06T12:42:08.051613"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "a619c4f0d81076fe",
+      "completeness_score": 80,
+      "missing_fields": [
+        "event_type",
+        "location"
+      ]
     }
   ]
 }
