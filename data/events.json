@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-11T12:04:32.772950",
+    "last_updated": "2026-10-12T14:21:52.324705",
     "count": 20
   },
   "events": [
@@ -33,7 +33,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.770491"
+      "updated_at": "2026-10-12T14:21:52.322231"
     },
     {
       "title": "Narcissistic leaders: Bunkers and Monuments – Kevin Volkan, EdD, PhD, MPH",
@@ -64,37 +64,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.771322"
-    },
-    {
-      "title": "Nostalgia and Absence: Fragmented Memories of a Lost “Home” – Anne J. Adelman, Ph.D.",
-      "description": "October 3 @ 9:00 am",
-      "start_date": "2026-10-03T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-anne-j-adelman/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.402896"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "baff3e0024965b5a",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-10-03T11:04:42.919794"
+      "updated_at": "2026-10-12T14:21:52.322650"
     },
     {
       "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
@@ -124,7 +94,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.769795"
+      "updated_at": "2026-10-12T14:21:52.321851"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
@@ -184,7 +154,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.770284"
+      "updated_at": "2026-10-12T14:21:52.322120"
     },
     {
       "title": "Missing the Mark: Errors and Problems in the Revised Standard Edition – Peter L. Rudnytsky, Ph.D., L.C.S.W.",
@@ -244,7 +214,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.770947"
+      "updated_at": "2026-10-12T14:21:52.322450"
     },
     {
       "title": "The Kids Are Alright: Surveillance, Privacy, and Adolescent Development — A Winnicottian Perspective – Mike Langlois, LICSW",
@@ -274,7 +244,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.771492"
+      "updated_at": "2026-10-12T14:21:52.322743"
     },
     {
       "title": "From synapse to sentience – Karl J. Friston, MBBS, MA, MRCPsych, MAE, FMedSci, FRBS, FRS",
@@ -334,7 +304,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.770468"
+      "updated_at": "2026-10-12T14:21:52.322219"
     },
     {
       "title": "Diving Into Gender: The Intersection of Gender, Culture, and Psychoanalysis — Susan McNamara, MD, LFAPA",
@@ -364,7 +334,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.769681"
+      "updated_at": "2026-10-12T14:21:52.321795"
     },
     {
       "title": "Towards a psychoanalysis that loves us back – Dr. Avgi Saketopoulou",
@@ -394,7 +364,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.772068"
+      "updated_at": "2026-10-12T14:21:52.323059"
     },
     {
       "title": "From Crisis to Model: Holding Context and Restoring Meaning — The Maana Journey – Najla Asmar",
@@ -424,7 +394,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.772309"
+      "updated_at": "2026-10-12T14:21:52.323192"
     },
     {
       "title": "Who Owns the Story? Ethical Reflections on Writing the Psychodynamic Case Study — Aner Govrin",
@@ -454,7 +424,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.772558"
+      "updated_at": "2026-10-12T14:21:52.323330"
     },
     {
       "title": "From synapse to sentience – Karl J. Friston, MBBS, MA, MRCPsych, MAE, FMedSci, FRBS, FRS",
@@ -484,7 +454,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.770819"
+      "updated_at": "2026-10-12T14:21:52.322383"
     },
     {
       "title": "Holding and Containing: “The Metaphor of the Baby” In Winnicott, Bion and Klein — Stephen Seligman",
@@ -514,7 +484,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.772871"
+      "updated_at": "2026-10-12T14:21:52.323491"
     },
     {
       "title": "The Many Selves of Odysseus: Looking at the Odyssey Through a Contemporary Psychoanalytic Lens — David Shaddock PHD, MFT",
@@ -544,7 +514,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.771280"
+      "updated_at": "2026-10-12T14:21:52.322630"
     },
     {
       "title": "The Other Kind of Othering: A Response to Helplessness During Troubled Times — Michael Korson, LMFT, CGP",
@@ -574,7 +544,7 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.770150"
+      "updated_at": "2026-10-12T14:21:52.322048"
     },
     {
       "title": "Specificity Theory & Couples Therapy: A Syncretic Approach — George Bermúdez, Ph.D., Psy.D.",
@@ -604,7 +574,35 @@
         "location"
       ],
       "tags": [],
-      "updated_at": "2026-10-11T12:04:32.771861"
+      "updated_at": "2026-10-12T14:21:52.322949"
+    },
+    {
+      "title": "From Oedipus to Odysseus: Narrative, Psychic Structure, and the Nature of the Self — Michael J. Thompson",
+      "description": "October 10, 2027 @ 9:00 am",
+      "start_date": "2027-10-10T09:00:00",
+      "format": "online",
+      "event_type": "other",
+      "location": {},
+      "registration": {
+        "fee": "Free",
+        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-michael-j-thompson/"
+      },
+      "source": {
+        "type": "website",
+        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
+        "name": "Psychoanalytic Inquiry",
+        "scraped_at": "2026-10-12T14:20:23.269689"
+      },
+      "organizer": {
+        "name": "Psychoanalytic Inquiry",
+        "url": "https://www.psychoanalyticinquiry.com"
+      },
+      "id": "86a63d4a5920cf9d",
+      "completeness_score": 80,
+      "missing_fields": [
+        "event_type",
+        "location"
+      ]
     }
   ]
 }
