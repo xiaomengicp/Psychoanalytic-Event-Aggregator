@@ -9,7 +9,7 @@
       "scraper_type": "newsletter"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:02:59.614419",
+    "last_scraped": "2026-11-19T15:14:35.313992",
     "active": true,
     "notes": "Replace gmail_sender with the actual newsletter email address"
   },
@@ -24,7 +24,7 @@
       "custom_parser": "APsAScraper"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:01:20.629107",
+    "last_scraped": "2026-11-19T15:11:19.526890",
     "active": true,
     "notes": "Primary US psychoanalytic organization"
   },
@@ -39,7 +39,7 @@
       "custom_parser": "BPCScraper"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:01:23.658596",
+    "last_scraped": "2026-11-19T15:11:22.664030",
     "active": true,
     "notes": "UK psychoanalytic regulatory body"
   },
@@ -54,7 +54,7 @@
       "custom_parser": "ChicagoPsychoanalyticScraper"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:01:27.167463",
+    "last_scraped": "2026-11-19T15:11:26.180090",
     "active": true,
     "notes": "Chicago area psychoanalytic society"
   },
@@ -69,7 +69,7 @@
       "custom_parser": "PsychoanalyticInquiryScraper"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:01:31.679175",
+    "last_scraped": "2026-11-19T15:11:31.290872",
     "active": true,
     "notes": "Psychoanalytic journal and events"
   },
@@ -83,7 +83,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:01:36.219229",
+    "last_scraped": "2026-11-19T15:11:36.220354",
     "active": true,
     "notes": "Main international psychoanalytic organization"
   },
@@ -97,7 +97,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:01:40.608192",
+    "last_scraped": "2026-11-19T15:11:40.537822",
     "active": true,
     "notes": "Melanie Klein Trust - UK Kleinian psychoanalysis"
   },
@@ -111,7 +111,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:01:46.353007",
+    "last_scraped": "2026-11-19T15:11:46.508190",
     "active": true,
     "notes": "Donald Winnicott legacy organization"
   },
@@ -125,7 +125,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:01:53.312049",
+    "last_scraped": "2026-11-19T15:11:51.845552",
     "active": true,
     "notes": "Sándor Ferenczi psychoanalytic legacy"
   },
@@ -139,7 +139,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:02:26.377849",
+    "last_scraped": "2026-11-19T15:12:27.884989",
     "active": true,
     "notes": "UK Independent psychoanalytic tradition"
   },
@@ -153,7 +153,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:02:29.884687",
+    "last_scraped": "2026-11-19T15:12:32.949674",
     "active": true,
     "notes": "Self psychology organization (Kohut tradition)"
   },
@@ -167,7 +167,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:02:33.151779",
+    "last_scraped": "2026-11-19T15:12:36.315049",
     "active": true,
     "notes": "NYC contemporary Freudian psychoanalysis"
   },
@@ -181,7 +181,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:02:37.175932",
+    "last_scraped": "2026-11-19T15:12:39.885401",
     "active": true,
     "notes": "Massachusetts psychoanalytic institute"
   },
@@ -195,7 +195,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:02:40.974853",
+    "last_scraped": "2026-11-19T15:12:43.611138",
     "active": true,
     "notes": "British Psychoanalytic Association"
   },
@@ -209,7 +209,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:02:44.871174",
+    "last_scraped": "2026-11-19T15:12:47.500932",
     "active": true,
     "notes": "Boston area psychoanalysis"
   },
@@ -223,7 +223,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:02:48.185355",
+    "last_scraped": "2026-11-19T15:12:50.867345",
     "active": true,
     "notes": "NYC lay analyst tradition"
   },
@@ -237,7 +237,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:02:52.241705",
+    "last_scraped": "2026-11-19T15:12:55.270720",
     "active": true,
     "notes": "Interpersonal/relational psychoanalysis"
   },
@@ -251,7 +251,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:02:56.104835",
+    "last_scraped": "2026-11-19T15:14:31.920327",
     "active": true,
     "notes": "Freud's original consulting room in Vienna"
   },
@@ -265,7 +265,7 @@
       "scraper_type": "generic"
     },
     "scrape_frequency": "0 6 * * *",
-    "last_scraped": "2026-11-18T15:02:59.613765",
+    "last_scraped": "2026-11-19T15:14:35.313135",
     "active": true,
     "notes": "Freud's London home and famous couch"
   },
