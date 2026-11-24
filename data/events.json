@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-23T17:18:51.805646",
-    "count": 23
+    "last_updated": "2026-11-24T16:57:08.083668",
+    "count": 22
   },
   "events": [
     {
@@ -65,36 +65,6 @@
       ],
       "tags": [],
       "updated_at": "2026-11-23T17:18:51.804008"
-    },
-    {
-      "title": "Social Psychoanalysis, Normative Unconscious Processes, and an Ethic of Dis-Illusionment and Repair – Lynne Layton",
-      "description": "November 15 @ 9:00 am",
-      "start_date": "2026-11-15T09:00:00",
-      "format": "online",
-      "event_type": "other",
-      "location": {},
-      "registration": {
-        "fee": "Free",
-        "url": "https://www.psychoanalyticinquiry.com/event/connections-and-conversation-lynne-layton/"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.psychoanalyticinquiry.com/event-calendar/",
-        "name": "Psychoanalytic Inquiry",
-        "scraped_at": "2026-01-17T00:19:39.404761"
-      },
-      "organizer": {
-        "name": "Psychoanalytic Inquiry",
-        "url": "https://www.psychoanalyticinquiry.com"
-      },
-      "id": "994225ae33ead5d8",
-      "completeness_score": 80,
-      "missing_fields": [
-        "event_type",
-        "location"
-      ],
-      "tags": [],
-      "updated_at": "2026-11-15T13:25:26.835264"
     },
     {
       "title": "The Realm Between – Sara Ekenstierna, PhD, LPsy",
