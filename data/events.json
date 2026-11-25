@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-24T16:57:08.083668",
-    "count": 22
+    "last_updated": "2026-11-25T16:45:57.462731",
+    "count": 21
   },
   "events": [
     {
@@ -575,35 +575,6 @@
       ],
       "tags": [],
       "updated_at": "2026-11-23T17:18:51.803702"
-    },
-    {
-      "title": "Bilderverbot. Ein religiöser Rest in der Psychoanalyse Lacans?",
-      "description": null,
-      "start_date": "2026-11-16T19:00:00+01:00",
-      "format": "in-person",
-      "event_type": "other",
-      "location": {
-        "venue": "Sigmund Freud Museum"
-      },
-      "registration": {
-        "url": "https://www.freud-museum.at/en/en/detail/bilderverbot-ein-religioser-rest-in-der-psychoanalyse-lacans"
-      },
-      "source": {
-        "type": "website",
-        "url": "https://www.freud-museum.at/en",
-        "name": "Sigmund Freud Museum Vienna",
-        "scraped_at": "2026-11-13T13:54:05.807342"
-      },
-      "id": "797a7721adf30ceb",
-      "completeness_score": 70,
-      "missing_fields": [
-        "event_type",
-        "description",
-        "organizer"
-      ],
-      "organizer": {},
-      "tags": [],
-      "updated_at": "2026-11-16T14:41:32.835584"
     },
     {
       "title": "Psychoanalysis under Conditions of War - Part 37",
